@@ -1,395 +1,395 @@
 <svg height="6270" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="6270" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 16:30:54 +0000 16492586 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 16:30:54 +0000      230 bytes  CONTRIBUTORS.txt</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 16:30:54 +0000    66170 bytes  ChangeLog.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 16:30:54 +0000    11217 bytes  Deploy13612.json</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 16:30:54 +0000     1087 bytes  Dockerfile</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 16:30:54 +0000    10765 bytes  LICENSE.txt</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 16:30:54 +0000     9773 bytes  README.md</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 16:30:54 +0000     2311 bytes  appveyor.yml</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 16:30:54 +0000      678 bytes  bin/azure</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 16:30:54 +0000     1611 bytes  bin/azure.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 16:30:54 +0000    93360 bytes  bin/windows/creds.exe</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 16:30:54 +0000    37492 bytes  cli.njsproj</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 16:30:54 +0000      953 bytes  cli.sln</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 16:30:54 +0000      552 bytes  compile-for-publish.sh</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 16:30:54 +0000     4148 bytes  lib/autocomplete.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 16:30:54 +0000    20204 bytes  lib/cli.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 16:30:54 +0000     9009 bytes  lib/cmdLoader.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 16:30:54 +0000     6201 bytes  lib/commands/account.environment.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 16:30:54 +0000     8104 bytes  lib/commands/account.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 16:30:54 +0000     3091 bytes  lib/commands/arm/acs/acs.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 16:30:54 +0000    15713 bytes  lib/commands/arm/ad/ad.application.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 16:30:54 +0000    16037 bytes  lib/commands/arm/ad/ad.groups.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 16:30:54 +0000    19478 bytes  lib/commands/arm/ad/ad.servicePrincipals.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 16:30:54 +0000    15668 bytes  lib/commands/arm/ad/ad.users.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 16:30:54 +0000    23031 bytes  lib/commands/arm/ad/adUtils.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 16:30:54 +0000    16985 bytes  lib/commands/arm/appserviceplan/appserviceplan.j\</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 16:34:07 +0000 16492586 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 16:34:07 +0000      230 bytes  CONTRIBUTORS.txt</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 16:34:07 +0000    66170 bytes  ChangeLog.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 16:34:07 +0000    11217 bytes  Deploy13612.json</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 16:34:07 +0000     1087 bytes  Dockerfile</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 16:34:07 +0000    10765 bytes  LICENSE.txt</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 16:34:07 +0000     9773 bytes  README.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 16:34:07 +0000     2311 bytes  appveyor.yml</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 16:34:07 +0000      678 bytes  bin/azure</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 16:34:07 +0000     1611 bytes  bin/azure.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 16:34:07 +0000    93360 bytes  bin/windows/creds.exe</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 16:34:07 +0000    37492 bytes  cli.njsproj</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 16:34:07 +0000      953 bytes  cli.sln</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 16:34:07 +0000      552 bytes  compile-for-publish.sh</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 16:34:07 +0000     4148 bytes  lib/autocomplete.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 16:34:07 +0000    20204 bytes  lib/cli.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 16:34:07 +0000     9009 bytes  lib/cmdLoader.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 16:34:07 +0000     6201 bytes  lib/commands/account.environment.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 16:34:07 +0000     8104 bytes  lib/commands/account.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 16:34:07 +0000     3091 bytes  lib/commands/arm/acs/acs.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 16:34:07 +0000    15713 bytes  lib/commands/arm/ad/ad.application.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 16:34:07 +0000    16037 bytes  lib/commands/arm/ad/ad.groups.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 16:34:07 +0000    19478 bytes  lib/commands/arm/ad/ad.servicePrincipals.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 16:34:07 +0000    15668 bytes  lib/commands/arm/ad/ad.users.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 16:34:07 +0000    23031 bytes  lib/commands/arm/ad/adUtils.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 16:34:07 +0000    16985 bytes  lib/commands/arm/appserviceplan/appserviceplan.j\</tspan>
 <tspan x="10" y="442">s</tspan>
-<tspan x="10" y="458"> 26.  2017-04-18 16:30:54 +0000     1522 bytes  lib/commands/arm/armsdk/compute.js</tspan>
-<tspan x="10" y="474"> 27.  2017-04-18 16:30:54 +0000   692980 bytes  lib/commands/arm/armsdk/computeManagementClient.\</tspan>
+<tspan x="10" y="458"> 26.  2017-04-18 16:34:07 +0000     1522 bytes  lib/commands/arm/armsdk/compute.js</tspan>
+<tspan x="10" y="474"> 27.  2017-04-18 16:34:07 +0000   692980 bytes  lib/commands/arm/armsdk/computeManagementClient.\</tspan>
 <tspan x="10" y="490">js</tspan>
-<tspan x="10" y="506"> 28.  2017-04-18 16:30:54 +0000     2512 bytes  lib/commands/arm/armsdk/resource.js</tspan>
-<tspan x="10" y="522"> 29.  2017-04-18 16:30:54 +0000   342144 bytes  lib/commands/arm/armsdk/resourceManagementClient\</tspan>
+<tspan x="10" y="506"> 28.  2017-04-18 16:34:07 +0000     2512 bytes  lib/commands/arm/armsdk/resource.js</tspan>
+<tspan x="10" y="522"> 29.  2017-04-18 16:34:07 +0000   342144 bytes  lib/commands/arm/armsdk/resourceManagementClient\</tspan>
 <tspan x="10" y="538">.js</tspan>
-<tspan x="10" y="554"> 30.  2017-04-18 16:30:54 +0000   100686 bytes  lib/commands/arm/armsdk/storageManagementClient.\</tspan>
+<tspan x="10" y="554"> 30.  2017-04-18 16:34:07 +0000   100686 bytes  lib/commands/arm/armsdk/storageManagementClient.\</tspan>
 <tspan x="10" y="570">js</tspan>
-<tspan x="10" y="586"> 31.  2017-04-18 16:30:54 +0000    12568 bytes  lib/commands/arm/availabilityset/availabilitySet\</tspan>
+<tspan x="10" y="586"> 31.  2017-04-18 16:34:07 +0000    12568 bytes  lib/commands/arm/availabilityset/availabilitySet\</tspan>
 <tspan x="10" y="602">.js</tspan>
-<tspan x="10" y="618"> 32.  2017-04-18 16:30:54 +0000     5514 bytes  lib/commands/arm/availabilityset/availset.js</tspan>
-<tspan x="10" y="634"> 33.  2017-04-18 16:30:54 +0000     7129 bytes  lib/commands/arm/availabilityset/availsetClient.\</tspan>
+<tspan x="10" y="618"> 32.  2017-04-18 16:34:07 +0000     5514 bytes  lib/commands/arm/availabilityset/availset.js</tspan>
+<tspan x="10" y="634"> 33.  2017-04-18 16:34:07 +0000     7129 bytes  lib/commands/arm/availabilityset/availsetClient.\</tspan>
 <tspan x="10" y="650">js</tspan>
-<tspan x="10" y="666"> 34.  2017-04-18 16:30:54 +0000   126508 bytes  lib/commands/arm/cdnmanagement/cdnmanagement.js</tspan>
-<tspan x="10" y="682"> 35.  2017-04-18 16:30:54 +0000     1352 bytes  lib/commands/arm/cdnmanagement/cdnmanagement.uti\</tspan>
+<tspan x="10" y="666"> 34.  2017-04-18 16:34:07 +0000   126508 bytes  lib/commands/arm/cdnmanagement/cdnmanagement.js</tspan>
+<tspan x="10" y="682"> 35.  2017-04-18 16:34:07 +0000     1352 bytes  lib/commands/arm/cdnmanagement/cdnmanagement.uti\</tspan>
 <tspan x="10" y="698">ls.js</tspan>
-<tspan x="10" y="714"> 36.  2017-04-18 16:30:54 +0000    61068 bytes  lib/commands/arm/compute/availabilitySets.js</tspan>
-<tspan x="10" y="730"> 37.  2017-04-18 16:30:54 +0000   145872 bytes  lib/commands/arm/compute/containerServices.js</tspan>
-<tspan x="10" y="746"> 38.  2017-04-18 16:30:54 +0000   205381 bytes  lib/commands/arm/compute/disks.js</tspan>
-<tspan x="10" y="762"> 39.  2017-04-18 16:30:54 +0000   114039 bytes  lib/commands/arm/compute/images.js</tspan>
-<tspan x="10" y="778"> 40.  2017-04-18 16:30:54 +0000   207125 bytes  lib/commands/arm/compute/snapshots.js</tspan>
-<tspan x="10" y="794"> 41.  2017-04-18 16:30:54 +0000    26340 bytes  lib/commands/arm/compute/virtualMachineScaleSetV\</tspan>
+<tspan x="10" y="714"> 36.  2017-04-18 16:34:07 +0000    61068 bytes  lib/commands/arm/compute/availabilitySets.js</tspan>
+<tspan x="10" y="730"> 37.  2017-04-18 16:34:07 +0000   145872 bytes  lib/commands/arm/compute/containerServices.js</tspan>
+<tspan x="10" y="746"> 38.  2017-04-18 16:34:07 +0000   205381 bytes  lib/commands/arm/compute/disks.js</tspan>
+<tspan x="10" y="762"> 39.  2017-04-18 16:34:07 +0000   114039 bytes  lib/commands/arm/compute/images.js</tspan>
+<tspan x="10" y="778"> 40.  2017-04-18 16:34:07 +0000   207125 bytes  lib/commands/arm/compute/snapshots.js</tspan>
+<tspan x="10" y="794"> 41.  2017-04-18 16:34:07 +0000    26340 bytes  lib/commands/arm/compute/virtualMachineScaleSetV\</tspan>
 <tspan x="10" y="810">Ms.js</tspan>
-<tspan x="10" y="826"> 42.  2017-04-18 16:30:54 +0000   443802 bytes  lib/commands/arm/compute/virtualMachineScaleSets\</tspan>
+<tspan x="10" y="826"> 42.  2017-04-18 16:34:07 +0000   443802 bytes  lib/commands/arm/compute/virtualMachineScaleSets\</tspan>
 <tspan x="10" y="842">.js</tspan>
-<tspan x="10" y="858"> 43.  2017-04-18 16:30:54 +0000   547234 bytes  lib/commands/arm/compute/virtualMachines.js</tspan>
-<tspan x="10" y="874"> 44.  2017-04-18 16:30:54 +0000    70215 bytes  lib/commands/arm/datalakeanalytics/datalakeanaly\</tspan>
+<tspan x="10" y="858"> 43.  2017-04-18 16:34:07 +0000   547234 bytes  lib/commands/arm/compute/virtualMachines.js</tspan>
+<tspan x="10" y="874"> 44.  2017-04-18 16:34:07 +0000    70215 bytes  lib/commands/arm/datalakeanalytics/datalakeanaly\</tspan>
 <tspan x="10" y="890">tics.js</tspan>
-<tspan x="10" y="906"> 45.  2017-04-18 16:30:54 +0000     3596 bytes  lib/commands/arm/datalakeanalytics/datalakeanaly\</tspan>
+<tspan x="10" y="906"> 45.  2017-04-18 16:34:07 +0000     3596 bytes  lib/commands/arm/datalakeanalytics/datalakeanaly\</tspan>
 <tspan x="10" y="922">tics.utils.js</tspan>
-<tspan x="10" y="938"> 46.  2017-04-18 16:30:54 +0000    83840 bytes  lib/commands/arm/datalakestore/datalakestore.js</tspan>
-<tspan x="10" y="954"> 47.  2017-04-18 16:30:54 +0000     3972 bytes  lib/commands/arm/datalakestore/datalakestore.uti\</tspan>
+<tspan x="10" y="938"> 46.  2017-04-18 16:34:07 +0000    83840 bytes  lib/commands/arm/datalakestore/datalakestore.js</tspan>
+<tspan x="10" y="954"> 47.  2017-04-18 16:34:07 +0000     3972 bytes  lib/commands/arm/datalakestore/datalakestore.uti\</tspan>
 <tspan x="10" y="970">ls.js</tspan>
-<tspan x="10" y="986"> 48.  2017-04-18 16:30:54 +0000    19888 bytes  lib/commands/arm/devtestlabs/devTestLabs.js</tspan>
-<tspan x="10" y="1002"> 49.  2017-04-18 16:30:54 +0000     1424 bytes  lib/commands/arm/devtestlabs/devTestLabs.utils.j\</tspan>
+<tspan x="10" y="986"> 48.  2017-04-18 16:34:07 +0000    19888 bytes  lib/commands/arm/devtestlabs/devTestLabs.js</tspan>
+<tspan x="10" y="1002"> 49.  2017-04-18 16:34:07 +0000     1424 bytes  lib/commands/arm/devtestlabs/devTestLabs.utils.j\</tspan>
 <tspan x="10" y="1018">s</tspan>
-<tspan x="10" y="1034"> 50.  2017-04-18 16:30:54 +0000     4697 bytes  lib/commands/arm/feature/feature.js</tspan>
-<tspan x="10" y="1050"> 51.  2017-04-18 16:30:54 +0000    29683 bytes  lib/commands/arm/group/group.deployment.js</tspan>
-<tspan x="10" y="1066"> 52.  2017-04-18 16:30:54 +0000     3882 bytes  lib/commands/arm/group/group.deployment.operatio\</tspan>
+<tspan x="10" y="1034"> 50.  2017-04-18 16:34:07 +0000     4697 bytes  lib/commands/arm/feature/feature.js</tspan>
+<tspan x="10" y="1050"> 51.  2017-04-18 16:34:07 +0000    29683 bytes  lib/commands/arm/group/group.deployment.js</tspan>
+<tspan x="10" y="1066"> 52.  2017-04-18 16:34:07 +0000     3882 bytes  lib/commands/arm/group/group.deployment.operatio\</tspan>
 <tspan x="10" y="1082">n.js</tspan>
-<tspan x="10" y="1098"> 53.  2017-04-18 16:30:54 +0000    25931 bytes  lib/commands/arm/group/group.js</tspan>
-<tspan x="10" y="1114"> 54.  2017-04-18 16:30:54 +0000     8123 bytes  lib/commands/arm/group/group.template.js</tspan>
-<tspan x="10" y="1130"> 55.  2017-04-18 16:30:54 +0000    24691 bytes  lib/commands/arm/group/groupUtils.js</tspan>
-<tspan x="10" y="1146"> 56.  2017-04-18 16:30:54 +0000    16334 bytes  lib/commands/arm/hdinsight/hdiClient.js</tspan>
-<tspan x="10" y="1162"> 57.  2017-04-18 16:30:54 +0000     3477 bytes  lib/commands/arm/hdinsight/hdiConfigClient.js</tspan>
-<tspan x="10" y="1178"> 58.  2017-04-18 16:30:54 +0000     2661 bytes  lib/commands/arm/hdinsight/hdiConstants.js</tspan>
-<tspan x="10" y="1194"> 59.  2017-04-18 16:30:54 +0000    22339 bytes  lib/commands/arm/hdinsight/hdiCustomization.js</tspan>
-<tspan x="10" y="1210"> 60.  2017-04-18 16:30:54 +0000     1615 bytes  lib/commands/arm/hdinsight/hdiUtils.js</tspan>
-<tspan x="10" y="1226"> 61.  2017-04-18 16:30:54 +0000    82191 bytes  lib/commands/arm/hdinsight/hdinsight.js</tspan>
-<tspan x="10" y="1242"> 62.  2017-04-18 16:30:54 +0000     5169 bytes  lib/commands/arm/insights/insights.alerts.action\</tspan>
+<tspan x="10" y="1098"> 53.  2017-04-18 16:34:07 +0000    25931 bytes  lib/commands/arm/group/group.js</tspan>
+<tspan x="10" y="1114"> 54.  2017-04-18 16:34:07 +0000     8123 bytes  lib/commands/arm/group/group.template.js</tspan>
+<tspan x="10" y="1130"> 55.  2017-04-18 16:34:07 +0000    24691 bytes  lib/commands/arm/group/groupUtils.js</tspan>
+<tspan x="10" y="1146"> 56.  2017-04-18 16:34:07 +0000    16334 bytes  lib/commands/arm/hdinsight/hdiClient.js</tspan>
+<tspan x="10" y="1162"> 57.  2017-04-18 16:34:07 +0000     3477 bytes  lib/commands/arm/hdinsight/hdiConfigClient.js</tspan>
+<tspan x="10" y="1178"> 58.  2017-04-18 16:34:07 +0000     2661 bytes  lib/commands/arm/hdinsight/hdiConstants.js</tspan>
+<tspan x="10" y="1194"> 59.  2017-04-18 16:34:07 +0000    22339 bytes  lib/commands/arm/hdinsight/hdiCustomization.js</tspan>
+<tspan x="10" y="1210"> 60.  2017-04-18 16:34:07 +0000     1615 bytes  lib/commands/arm/hdinsight/hdiUtils.js</tspan>
+<tspan x="10" y="1226"> 61.  2017-04-18 16:34:07 +0000    82191 bytes  lib/commands/arm/hdinsight/hdinsight.js</tspan>
+<tspan x="10" y="1242"> 62.  2017-04-18 16:34:07 +0000     5169 bytes  lib/commands/arm/insights/insights.alerts.action\</tspan>
 <tspan x="10" y="1258">s.js</tspan>
-<tspan x="10" y="1274"> 63.  2017-04-18 16:30:54 +0000     5956 bytes  lib/commands/arm/insights/insights.alerts.js</tspan>
-<tspan x="10" y="1290"> 64.  2017-04-18 16:30:54 +0000     7774 bytes  lib/commands/arm/insights/insights.alerts.rule.j\</tspan>
+<tspan x="10" y="1274"> 63.  2017-04-18 16:34:07 +0000     5956 bytes  lib/commands/arm/insights/insights.alerts.js</tspan>
+<tspan x="10" y="1290"> 64.  2017-04-18 16:34:07 +0000     7774 bytes  lib/commands/arm/insights/insights.alerts.rule.j\</tspan>
 <tspan x="10" y="1306">s</tspan>
-<tspan x="10" y="1322"> 65.  2017-04-18 16:30:54 +0000     7475 bytes  lib/commands/arm/insights/insights.alerts.rule.l\</tspan>
+<tspan x="10" y="1322"> 65.  2017-04-18 16:34:07 +0000     7475 bytes  lib/commands/arm/insights/insights.alerts.rule.l\</tspan>
 <tspan x="10" y="1338">og.js</tspan>
-<tspan x="10" y="1354"> 66.  2017-04-18 16:30:54 +0000     9266 bytes  lib/commands/arm/insights/insights.alerts.rule.m\</tspan>
+<tspan x="10" y="1354"> 66.  2017-04-18 16:34:07 +0000     9266 bytes  lib/commands/arm/insights/insights.alerts.rule.m\</tspan>
 <tspan x="10" y="1370">etric.js</tspan>
-<tspan x="10" y="1386"> 67.  2017-04-18 16:30:54 +0000     7834 bytes  lib/commands/arm/insights/insights.alerts.rule.w\</tspan>
+<tspan x="10" y="1386"> 67.  2017-04-18 16:34:07 +0000     7834 bytes  lib/commands/arm/insights/insights.alerts.rule.w\</tspan>
 <tspan x="10" y="1402">ebtest.js</tspan>
-<tspan x="10" y="1418"> 68.  2017-04-18 16:30:54 +0000     5975 bytes  lib/commands/arm/insights/insights.autoscale.js</tspan>
-<tspan x="10" y="1434"> 69.  2017-04-18 16:30:54 +0000     5898 bytes  lib/commands/arm/insights/insights.autoscale.not\</tspan>
+<tspan x="10" y="1418"> 68.  2017-04-18 16:34:07 +0000     5975 bytes  lib/commands/arm/insights/insights.autoscale.js</tspan>
+<tspan x="10" y="1434"> 69.  2017-04-18 16:34:07 +0000     5898 bytes  lib/commands/arm/insights/insights.autoscale.not\</tspan>
 <tspan x="10" y="1450">ifications.js</tspan>
-<tspan x="10" y="1466"> 70.  2017-04-18 16:30:54 +0000     7013 bytes  lib/commands/arm/insights/insights.autoscale.pro\</tspan>
+<tspan x="10" y="1466"> 70.  2017-04-18 16:34:07 +0000     7013 bytes  lib/commands/arm/insights/insights.autoscale.pro\</tspan>
 <tspan x="10" y="1482">file.js</tspan>
-<tspan x="10" y="1498"> 71.  2017-04-18 16:30:54 +0000     6683 bytes  lib/commands/arm/insights/insights.autoscale.rul\</tspan>
+<tspan x="10" y="1498"> 71.  2017-04-18 16:34:07 +0000     6683 bytes  lib/commands/arm/insights/insights.autoscale.rul\</tspan>
 <tspan x="10" y="1514">e.js</tspan>
-<tspan x="10" y="1530"> 72.  2017-04-18 16:30:54 +0000    15779 bytes  lib/commands/arm/insights/insights.autoscale.set\</tspan>
+<tspan x="10" y="1530"> 72.  2017-04-18 16:34:07 +0000    15779 bytes  lib/commands/arm/insights/insights.autoscale.set\</tspan>
 <tspan x="10" y="1546">ting.js</tspan>
-<tspan x="10" y="1562"> 73.  2017-04-18 16:30:54 +0000     2469 bytes  lib/commands/arm/insights/insights.diagnostic.ge\</tspan>
+<tspan x="10" y="1562"> 73.  2017-04-18 16:34:07 +0000     2469 bytes  lib/commands/arm/insights/insights.diagnostic.ge\</tspan>
 <tspan x="10" y="1578">t.js</tspan>
-<tspan x="10" y="1594"> 74.  2017-04-18 16:30:54 +0000     5945 bytes  lib/commands/arm/insights/insights.diagnostic.se\</tspan>
+<tspan x="10" y="1594"> 74.  2017-04-18 16:34:07 +0000     5945 bytes  lib/commands/arm/insights/insights.diagnostic.se\</tspan>
 <tspan x="10" y="1610">t.js</tspan>
-<tspan x="10" y="1626"> 75.  2017-04-18 16:30:54 +0000     9401 bytes  lib/commands/arm/insights/insights.js</tspan>
-<tspan x="10" y="1642"> 76.  2017-04-18 16:30:54 +0000     3787 bytes  lib/commands/arm/insights/insights.logprofiles.a\</tspan>
+<tspan x="10" y="1626"> 75.  2017-04-18 16:34:07 +0000     9401 bytes  lib/commands/arm/insights/insights.js</tspan>
+<tspan x="10" y="1642"> 76.  2017-04-18 16:34:07 +0000     3787 bytes  lib/commands/arm/insights/insights.logprofiles.a\</tspan>
 <tspan x="10" y="1658">dd.js</tspan>
-<tspan x="10" y="1674"> 77.  2017-04-18 16:30:54 +0000     2212 bytes  lib/commands/arm/insights/insights.logprofiles.d\</tspan>
+<tspan x="10" y="1674"> 77.  2017-04-18 16:34:07 +0000     2212 bytes  lib/commands/arm/insights/insights.logprofiles.d\</tspan>
 <tspan x="10" y="1690">elete.js</tspan>
-<tspan x="10" y="1706"> 78.  2017-04-18 16:30:54 +0000     2303 bytes  lib/commands/arm/insights/insights.logprofiles.g\</tspan>
+<tspan x="10" y="1706"> 78.  2017-04-18 16:34:07 +0000     2303 bytes  lib/commands/arm/insights/insights.logprofiles.g\</tspan>
 <tspan x="10" y="1722">et.js</tspan>
-<tspan x="10" y="1738"> 79.  2017-04-18 16:30:54 +0000     2465 bytes  lib/commands/arm/insights/insights.logprofiles.l\</tspan>
+<tspan x="10" y="1738"> 79.  2017-04-18 16:34:07 +0000     2465 bytes  lib/commands/arm/insights/insights.logprofiles.l\</tspan>
 <tspan x="10" y="1754">ist.js</tspan>
-<tspan x="10" y="1770"> 80.  2017-04-18 16:30:54 +0000     4055 bytes  lib/commands/arm/insights/insights.metrics.defin\</tspan>
+<tspan x="10" y="1770"> 80.  2017-04-18 16:34:07 +0000     4055 bytes  lib/commands/arm/insights/insights.metrics.defin\</tspan>
 <tspan x="10" y="1786">ition.js</tspan>
-<tspan x="10" y="1802"> 81.  2017-04-18 16:30:54 +0000     6188 bytes  lib/commands/arm/insights/insights.metrics.js</tspan>
-<tspan x="10" y="1818"> 82.  2017-04-18 16:30:54 +0000     4619 bytes  lib/commands/arm/insights/insights.usage.js</tspan>
-<tspan x="10" y="1834"> 83.  2017-04-18 16:30:54 +0000     8282 bytes  lib/commands/arm/insights/insights.utils.js</tspan>
-<tspan x="10" y="1850"> 84.  2017-04-18 16:30:54 +0000    86787 bytes  lib/commands/arm/iothub/iothub.js</tspan>
-<tspan x="10" y="1866"> 85.  2017-04-18 16:30:54 +0000     1286 bytes  lib/commands/arm/iothub/iothubUtils.js</tspan>
-<tspan x="10" y="1882"> 86.  2017-04-18 16:30:54 +0000    83269 bytes  lib/commands/arm/keyvault/keyvault.certificate.j\</tspan>
+<tspan x="10" y="1802"> 81.  2017-04-18 16:34:07 +0000     6188 bytes  lib/commands/arm/insights/insights.metrics.js</tspan>
+<tspan x="10" y="1818"> 82.  2017-04-18 16:34:07 +0000     4619 bytes  lib/commands/arm/insights/insights.usage.js</tspan>
+<tspan x="10" y="1834"> 83.  2017-04-18 16:34:07 +0000     8282 bytes  lib/commands/arm/insights/insights.utils.js</tspan>
+<tspan x="10" y="1850"> 84.  2017-04-18 16:34:07 +0000    86787 bytes  lib/commands/arm/iothub/iothub.js</tspan>
+<tspan x="10" y="1866"> 85.  2017-04-18 16:34:07 +0000     1286 bytes  lib/commands/arm/iothub/iothubUtils.js</tspan>
+<tspan x="10" y="1882"> 86.  2017-04-18 16:34:07 +0000    83269 bytes  lib/commands/arm/keyvault/keyvault.certificate.j\</tspan>
 <tspan x="10" y="1898">s</tspan>
-<tspan x="10" y="1914"> 87.  2017-04-18 16:30:54 +0000    45861 bytes  lib/commands/arm/keyvault/keyvault.js</tspan>
-<tspan x="10" y="1930"> 88.  2017-04-18 16:30:54 +0000    34216 bytes  lib/commands/arm/keyvault/keyvault.key.js</tspan>
-<tspan x="10" y="1946"> 89.  2017-04-18 16:30:54 +0000    30774 bytes  lib/commands/arm/keyvault/keyvault.secret.js</tspan>
-<tspan x="10" y="1962"> 90.  2017-04-18 16:30:54 +0000    11279 bytes  lib/commands/arm/keyvault/kv-legacy.js</tspan>
-<tspan x="10" y="1978"> 91.  2017-04-18 16:30:54 +0000     7774 bytes  lib/commands/arm/keyvault/kv-utils.js</tspan>
-<tspan x="10" y="1994"> 92.  2017-04-18 16:30:54 +0000     3038 bytes  lib/commands/arm/location/location.js</tspan>
-<tspan x="10" y="2010"> 93.  2017-04-18 16:30:54 +0000     2144 bytes  lib/commands/arm/location/locationUtils.js</tspan>
-<tspan x="10" y="2026"> 94.  2017-04-18 16:30:54 +0000    15723 bytes  lib/commands/arm/network/LoadBalancers-backendAd\</tspan>
+<tspan x="10" y="1914"> 87.  2017-04-18 16:34:07 +0000    45861 bytes  lib/commands/arm/keyvault/keyvault.js</tspan>
+<tspan x="10" y="1930"> 88.  2017-04-18 16:34:07 +0000    34216 bytes  lib/commands/arm/keyvault/keyvault.key.js</tspan>
+<tspan x="10" y="1946"> 89.  2017-04-18 16:34:07 +0000    30774 bytes  lib/commands/arm/keyvault/keyvault.secret.js</tspan>
+<tspan x="10" y="1962"> 90.  2017-04-18 16:34:07 +0000    11279 bytes  lib/commands/arm/keyvault/kv-legacy.js</tspan>
+<tspan x="10" y="1978"> 91.  2017-04-18 16:34:07 +0000     7774 bytes  lib/commands/arm/keyvault/kv-utils.js</tspan>
+<tspan x="10" y="1994"> 92.  2017-04-18 16:34:07 +0000     3038 bytes  lib/commands/arm/location/location.js</tspan>
+<tspan x="10" y="2010"> 93.  2017-04-18 16:34:07 +0000     2144 bytes  lib/commands/arm/location/locationUtils.js</tspan>
+<tspan x="10" y="2026"> 94.  2017-04-18 16:34:07 +0000    15723 bytes  lib/commands/arm/network/LoadBalancers-backendAd\</tspan>
 <tspan x="10" y="2042">dressPools.js</tspan>
-<tspan x="10" y="2058"> 95.  2017-04-18 16:30:54 +0000    27431 bytes  lib/commands/arm/network/LoadBalancers-frontendI\</tspan>
+<tspan x="10" y="2058"> 95.  2017-04-18 16:34:07 +0000    27431 bytes  lib/commands/arm/network/LoadBalancers-frontendI\</tspan>
 <tspan x="10" y="2074">PConfigurations.js</tspan>
-<tspan x="10" y="2090"> 96.  2017-04-18 16:30:54 +0000    28072 bytes  lib/commands/arm/network/LoadBalancers-inboundNa\</tspan>
+<tspan x="10" y="2090"> 96.  2017-04-18 16:34:07 +0000    28072 bytes  lib/commands/arm/network/LoadBalancers-inboundNa\</tspan>
 <tspan x="10" y="2106">tPools.js</tspan>
-<tspan x="10" y="2122"> 97.  2017-04-18 16:30:54 +0000    29224 bytes  lib/commands/arm/network/LoadBalancers-inboundNa\</tspan>
+<tspan x="10" y="2122"> 97.  2017-04-18 16:34:07 +0000    29224 bytes  lib/commands/arm/network/LoadBalancers-inboundNa\</tspan>
 <tspan x="10" y="2138">tRules.js</tspan>
-<tspan x="10" y="2154"> 98.  2017-04-18 16:30:54 +0000    37104 bytes  lib/commands/arm/network/LoadBalancers-loadBalan\</tspan>
+<tspan x="10" y="2154"> 98.  2017-04-18 16:34:07 +0000    37104 bytes  lib/commands/arm/network/LoadBalancers-loadBalan\</tspan>
 <tspan x="10" y="2170">cingRules.js</tspan>
-<tspan x="10" y="2186"> 99.  2017-04-18 16:30:54 +0000    24590 bytes  lib/commands/arm/network/LoadBalancers-probes.js</tspan>
-<tspan x="10" y="2202">100.  2017-04-18 16:30:54 +0000    27936 bytes  lib/commands/arm/network/NetworkSecurityGroups-s\</tspan>
+<tspan x="10" y="2186"> 99.  2017-04-18 16:34:07 +0000    24590 bytes  lib/commands/arm/network/LoadBalancers-probes.js</tspan>
+<tspan x="10" y="2202">100.  2017-04-18 16:34:07 +0000    27936 bytes  lib/commands/arm/network/NetworkSecurityGroups-s\</tspan>
 <tspan x="10" y="2218">ecurityRules.js</tspan>
-<tspan x="10" y="2234">101.  2017-04-18 16:30:54 +0000    27305 bytes  lib/commands/arm/network/NetworkWatchers-packetC\</tspan>
+<tspan x="10" y="2234">101.  2017-04-18 16:34:07 +0000    27305 bytes  lib/commands/arm/network/NetworkWatchers-packetC\</tspan>
 <tspan x="10" y="2250">aptures.js</tspan>
-<tspan x="10" y="2266">102.  2017-04-18 16:30:54 +0000    21999 bytes  lib/commands/arm/network/RouteTables-routes.js</tspan>
-<tspan x="10" y="2282">103.  2017-04-18 16:30:54 +0000    25691 bytes  lib/commands/arm/network/VirtualNetworks-subnets\</tspan>
+<tspan x="10" y="2266">102.  2017-04-18 16:34:07 +0000    21999 bytes  lib/commands/arm/network/RouteTables-routes.js</tspan>
+<tspan x="10" y="2282">103.  2017-04-18 16:34:07 +0000    25691 bytes  lib/commands/arm/network/VirtualNetworks-subnets\</tspan>
 <tspan x="10" y="2298">.js</tspan>
-<tspan x="10" y="2314">104.  2017-04-18 16:30:54 +0000   140059 bytes  lib/commands/arm/network/appGateway.js</tspan>
-<tspan x="10" y="2330">105.  2017-04-18 16:30:54 +0000     6608 bytes  lib/commands/arm/network/constants.js</tspan>
-<tspan x="10" y="2346">106.  2017-04-18 16:30:54 +0000    63018 bytes  lib/commands/arm/network/dnsZone.js</tspan>
-<tspan x="10" y="2362">107.  2017-04-18 16:30:54 +0000    44973 bytes  lib/commands/arm/network/expressRoute.js</tspan>
-<tspan x="10" y="2378">108.  2017-04-18 16:30:54 +0000     2030 bytes  lib/commands/arm/network/loadBalancer.js</tspan>
-<tspan x="10" y="2394">109.  2017-04-18 16:30:54 +0000    18083 bytes  lib/commands/arm/network/loadBalancers.js</tspan>
-<tspan x="10" y="2410">110.  2017-04-18 16:30:54 +0000    12082 bytes  lib/commands/arm/network/localNetworkGateway.js</tspan>
-<tspan x="10" y="2426">111.  2017-04-18 16:30:54 +0000   281567 bytes  lib/commands/arm/network/network.js</tspan>
-<tspan x="10" y="2442">112.  2017-04-18 16:30:54 +0000    18728 bytes  lib/commands/arm/network/networkSecurityGroups.j\</tspan>
+<tspan x="10" y="2314">104.  2017-04-18 16:34:07 +0000   140059 bytes  lib/commands/arm/network/appGateway.js</tspan>
+<tspan x="10" y="2330">105.  2017-04-18 16:34:07 +0000     6608 bytes  lib/commands/arm/network/constants.js</tspan>
+<tspan x="10" y="2346">106.  2017-04-18 16:34:07 +0000    63018 bytes  lib/commands/arm/network/dnsZone.js</tspan>
+<tspan x="10" y="2362">107.  2017-04-18 16:34:07 +0000    44973 bytes  lib/commands/arm/network/expressRoute.js</tspan>
+<tspan x="10" y="2378">108.  2017-04-18 16:34:07 +0000     2030 bytes  lib/commands/arm/network/loadBalancer.js</tspan>
+<tspan x="10" y="2394">109.  2017-04-18 16:34:07 +0000    18083 bytes  lib/commands/arm/network/loadBalancers.js</tspan>
+<tspan x="10" y="2410">110.  2017-04-18 16:34:07 +0000    12082 bytes  lib/commands/arm/network/localNetworkGateway.js</tspan>
+<tspan x="10" y="2426">111.  2017-04-18 16:34:07 +0000   281567 bytes  lib/commands/arm/network/network.js</tspan>
+<tspan x="10" y="2442">112.  2017-04-18 16:34:07 +0000    18728 bytes  lib/commands/arm/network/networkSecurityGroups.j\</tspan>
 <tspan x="10" y="2458">s</tspan>
-<tspan x="10" y="2474">113.  2017-04-18 16:30:54 +0000     1323 bytes  lib/commands/arm/network/networkUsage.js</tspan>
-<tspan x="10" y="2490">114.  2017-04-18 16:30:54 +0000    54234 bytes  lib/commands/arm/network/networkWatchers.js</tspan>
-<tspan x="10" y="2506">115.  2017-04-18 16:30:54 +0000    47715 bytes  lib/commands/arm/network/nic.js</tspan>
-<tspan x="10" y="2522">116.  2017-04-18 16:30:54 +0000     2033 bytes  lib/commands/arm/network/nsg.js</tspan>
-<tspan x="10" y="2538">117.  2017-04-18 16:30:54 +0000    23398 bytes  lib/commands/arm/network/publicIPAddresses.js</tspan>
-<tspan x="10" y="2554">118.  2017-04-18 16:30:54 +0000     2033 bytes  lib/commands/arm/network/publicIp.js</tspan>
-<tspan x="10" y="2570">119.  2017-04-18 16:30:54 +0000    11939 bytes  lib/commands/arm/network/recordSetUtils.js</tspan>
-<tspan x="10" y="2586">120.  2017-04-18 16:30:54 +0000     2073 bytes  lib/commands/arm/network/routeTable.js</tspan>
-<tspan x="10" y="2602">121.  2017-04-18 16:30:54 +0000    17938 bytes  lib/commands/arm/network/routeTables.js</tspan>
-<tspan x="10" y="2618">122.  2017-04-18 16:30:54 +0000     2022 bytes  lib/commands/arm/network/subnet.js</tspan>
-<tspan x="10" y="2634">123.  2017-04-18 16:30:54 +0000    29392 bytes  lib/commands/arm/network/trafficManager.js</tspan>
-<tspan x="10" y="2650">124.  2017-04-18 16:30:54 +0000    53839 bytes  lib/commands/arm/network/virtualNetworkGateway.j\</tspan>
+<tspan x="10" y="2474">113.  2017-04-18 16:34:07 +0000     1323 bytes  lib/commands/arm/network/networkUsage.js</tspan>
+<tspan x="10" y="2490">114.  2017-04-18 16:34:07 +0000    54234 bytes  lib/commands/arm/network/networkWatchers.js</tspan>
+<tspan x="10" y="2506">115.  2017-04-18 16:34:07 +0000    47715 bytes  lib/commands/arm/network/nic.js</tspan>
+<tspan x="10" y="2522">116.  2017-04-18 16:34:07 +0000     2033 bytes  lib/commands/arm/network/nsg.js</tspan>
+<tspan x="10" y="2538">117.  2017-04-18 16:34:07 +0000    23398 bytes  lib/commands/arm/network/publicIPAddresses.js</tspan>
+<tspan x="10" y="2554">118.  2017-04-18 16:34:07 +0000     2033 bytes  lib/commands/arm/network/publicIp.js</tspan>
+<tspan x="10" y="2570">119.  2017-04-18 16:34:07 +0000    11939 bytes  lib/commands/arm/network/recordSetUtils.js</tspan>
+<tspan x="10" y="2586">120.  2017-04-18 16:34:07 +0000     2073 bytes  lib/commands/arm/network/routeTable.js</tspan>
+<tspan x="10" y="2602">121.  2017-04-18 16:34:07 +0000    17938 bytes  lib/commands/arm/network/routeTables.js</tspan>
+<tspan x="10" y="2618">122.  2017-04-18 16:34:07 +0000     2022 bytes  lib/commands/arm/network/subnet.js</tspan>
+<tspan x="10" y="2634">123.  2017-04-18 16:34:07 +0000    29392 bytes  lib/commands/arm/network/trafficManager.js</tspan>
+<tspan x="10" y="2650">124.  2017-04-18 16:34:07 +0000    53839 bytes  lib/commands/arm/network/virtualNetworkGateway.j\</tspan>
 <tspan x="10" y="2666">s</tspan>
-<tspan x="10" y="2682">125.  2017-04-18 16:30:54 +0000    25618 bytes  lib/commands/arm/network/virtualNetworkPeerings.\</tspan>
+<tspan x="10" y="2682">125.  2017-04-18 16:34:07 +0000    25618 bytes  lib/commands/arm/network/virtualNetworkPeerings.\</tspan>
 <tspan x="10" y="2698">js</tspan>
-<tspan x="10" y="2714">126.  2017-04-18 16:30:54 +0000    21140 bytes  lib/commands/arm/network/virtualNetworks.js</tspan>
-<tspan x="10" y="2730">127.  2017-04-18 16:30:54 +0000    19824 bytes  lib/commands/arm/network/zoneFile.js</tspan>
-<tspan x="10" y="2746">128.  2017-04-18 16:30:54 +0000    13216 bytes  lib/commands/arm/policy/policy.assignment.js</tspan>
-<tspan x="10" y="2762">129.  2017-04-18 16:30:54 +0000    13338 bytes  lib/commands/arm/policy/policy.definition.js</tspan>
-<tspan x="10" y="2778">130.  2017-04-18 16:30:54 +0000    14003 bytes  lib/commands/arm/powerbiembedded/powerbiembedded\</tspan>
+<tspan x="10" y="2714">126.  2017-04-18 16:34:07 +0000    21140 bytes  lib/commands/arm/network/virtualNetworks.js</tspan>
+<tspan x="10" y="2730">127.  2017-04-18 16:34:07 +0000    19824 bytes  lib/commands/arm/network/zoneFile.js</tspan>
+<tspan x="10" y="2746">128.  2017-04-18 16:34:07 +0000    13216 bytes  lib/commands/arm/policy/policy.assignment.js</tspan>
+<tspan x="10" y="2762">129.  2017-04-18 16:34:07 +0000    13338 bytes  lib/commands/arm/policy/policy.definition.js</tspan>
+<tspan x="10" y="2778">130.  2017-04-18 16:34:07 +0000    14003 bytes  lib/commands/arm/powerbiembedded/powerbiembedded\</tspan>
 <tspan x="10" y="2794">.js</tspan>
-<tspan x="10" y="2810">131.  2017-04-18 16:30:54 +0000     9096 bytes  lib/commands/arm/providers/provider.js</tspan>
-<tspan x="10" y="2826">132.  2017-04-18 16:30:54 +0000    10863 bytes  lib/commands/arm/providers/provider.operations.j\</tspan>
+<tspan x="10" y="2810">131.  2017-04-18 16:34:07 +0000     9096 bytes  lib/commands/arm/providers/provider.js</tspan>
+<tspan x="10" y="2826">132.  2017-04-18 16:34:07 +0000    10863 bytes  lib/commands/arm/providers/provider.operations.j\</tspan>
 <tspan x="10" y="2842">s</tspan>
-<tspan x="10" y="2858">133.  2017-04-18 16:30:54 +0000     1275 bytes  lib/commands/arm/providers/providerUtils.js</tspan>
-<tspan x="10" y="2874">134.  2017-04-18 16:30:54 +0000     3797 bytes  lib/commands/arm/quotas/quotas.js</tspan>
-<tspan x="10" y="2890">135.  2017-04-18 16:30:54 +0000    54657 bytes  lib/commands/arm/rediscache/rediscache.js</tspan>
-<tspan x="10" y="2906">136.  2017-04-18 16:30:54 +0000     4241 bytes  lib/commands/arm/rediscache/rediscacheUtils.js</tspan>
-<tspan x="10" y="2922">137.  2017-04-18 16:30:54 +0000    28498 bytes  lib/commands/arm/resource/resource.js</tspan>
-<tspan x="10" y="2938">138.  2017-04-18 16:30:54 +0000     3636 bytes  lib/commands/arm/resource/resourceUtils.js</tspan>
-<tspan x="10" y="2954">139.  2017-04-18 16:30:54 +0000      952 bytes  lib/commands/arm/role/permissionsUtils.js</tspan>
-<tspan x="10" y="2970">140.  2017-04-18 16:30:54 +0000     1127 bytes  lib/commands/arm/role/rbacClients.js</tspan>
-<tspan x="10" y="2986">141.  2017-04-18 16:30:54 +0000      799 bytes  lib/commands/arm/role/rbacConstants.js</tspan>
-<tspan x="10" y="3002">142.  2017-04-18 16:30:54 +0000     7589 bytes  lib/commands/arm/role/role.assignment.audit.js</tspan>
-<tspan x="10" y="3018">143.  2017-04-18 16:30:54 +0000    14879 bytes  lib/commands/arm/role/role.assignment.auditUtils\</tspan>
+<tspan x="10" y="2858">133.  2017-04-18 16:34:07 +0000     1275 bytes  lib/commands/arm/providers/providerUtils.js</tspan>
+<tspan x="10" y="2874">134.  2017-04-18 16:34:07 +0000     3797 bytes  lib/commands/arm/quotas/quotas.js</tspan>
+<tspan x="10" y="2890">135.  2017-04-18 16:34:07 +0000    54657 bytes  lib/commands/arm/rediscache/rediscache.js</tspan>
+<tspan x="10" y="2906">136.  2017-04-18 16:34:07 +0000     4241 bytes  lib/commands/arm/rediscache/rediscacheUtils.js</tspan>
+<tspan x="10" y="2922">137.  2017-04-18 16:34:07 +0000    28498 bytes  lib/commands/arm/resource/resource.js</tspan>
+<tspan x="10" y="2938">138.  2017-04-18 16:34:07 +0000     3636 bytes  lib/commands/arm/resource/resourceUtils.js</tspan>
+<tspan x="10" y="2954">139.  2017-04-18 16:34:07 +0000      952 bytes  lib/commands/arm/role/permissionsUtils.js</tspan>
+<tspan x="10" y="2970">140.  2017-04-18 16:34:07 +0000     1127 bytes  lib/commands/arm/role/rbacClients.js</tspan>
+<tspan x="10" y="2986">141.  2017-04-18 16:34:07 +0000      799 bytes  lib/commands/arm/role/rbacConstants.js</tspan>
+<tspan x="10" y="3002">142.  2017-04-18 16:34:07 +0000     7589 bytes  lib/commands/arm/role/role.assignment.audit.js</tspan>
+<tspan x="10" y="3018">143.  2017-04-18 16:34:07 +0000    14879 bytes  lib/commands/arm/role/role.assignment.auditUtils\</tspan>
 <tspan x="10" y="3034">.js</tspan>
-<tspan x="10" y="3050">144.  2017-04-18 16:30:54 +0000    27006 bytes  lib/commands/arm/role/role.assignment.js</tspan>
-<tspan x="10" y="3066">145.  2017-04-18 16:30:54 +0000    23242 bytes  lib/commands/arm/role/role.definition.js</tspan>
-<tspan x="10" y="3082">146.  2017-04-18 16:30:54 +0000    18919 bytes  lib/commands/arm/role/roleAssignments.js</tspan>
-<tspan x="10" y="3098">147.  2017-04-18 16:30:54 +0000     5740 bytes  lib/commands/arm/role/roleUtils.js</tspan>
-<tspan x="10" y="3114">148.  2017-04-18 16:30:54 +0000     2846 bytes  lib/commands/arm/servermanagement/help.js</tspan>
-<tspan x="10" y="3130">149.  2017-04-18 16:30:54 +0000    24509 bytes  lib/commands/arm/servermanagement/servermanageme\</tspan>
+<tspan x="10" y="3050">144.  2017-04-18 16:34:07 +0000    27006 bytes  lib/commands/arm/role/role.assignment.js</tspan>
+<tspan x="10" y="3066">145.  2017-04-18 16:34:07 +0000    23242 bytes  lib/commands/arm/role/role.definition.js</tspan>
+<tspan x="10" y="3082">146.  2017-04-18 16:34:07 +0000    18919 bytes  lib/commands/arm/role/roleAssignments.js</tspan>
+<tspan x="10" y="3098">147.  2017-04-18 16:34:07 +0000     5740 bytes  lib/commands/arm/role/roleUtils.js</tspan>
+<tspan x="10" y="3114">148.  2017-04-18 16:34:07 +0000     2846 bytes  lib/commands/arm/servermanagement/help.js</tspan>
+<tspan x="10" y="3130">149.  2017-04-18 16:34:07 +0000    24509 bytes  lib/commands/arm/servermanagement/servermanageme\</tspan>
 <tspan x="10" y="3146">nt.js</tspan>
-<tspan x="10" y="3162">150.  2017-04-18 16:30:54 +0000    12451 bytes  lib/commands/arm/tag/tag.js</tspan>
-<tspan x="10" y="3178">151.  2017-04-18 16:30:54 +0000     2574 bytes  lib/commands/arm/tag/tagUtils.js</tspan>
-<tspan x="10" y="3194">152.  2017-04-18 16:30:54 +0000     6000 bytes  lib/commands/arm/usage/usage.js</tspan>
-<tspan x="10" y="3210">153.  2017-04-18 16:30:54 +0000     6762 bytes  lib/commands/arm/vm/aemExtensionUtil.js</tspan>
-<tspan x="10" y="3226">154.  2017-04-18 16:30:54 +0000    27165 bytes  lib/commands/arm/vm/networkNic.js</tspan>
-<tspan x="10" y="3242">155.  2017-04-18 16:30:54 +0000    12178 bytes  lib/commands/arm/vm/networkPublicIP.js</tspan>
-<tspan x="10" y="3258">156.  2017-04-18 16:30:54 +0000    10510 bytes  lib/commands/arm/vm/networkVNet.js</tspan>
-<tspan x="10" y="3274">157.  2017-04-18 16:30:54 +0000    11814 bytes  lib/commands/arm/vm/networkVNetSubnet.js</tspan>
-<tspan x="10" y="3290">158.  2017-04-18 16:30:54 +0000    28762 bytes  lib/commands/arm/vm/virtualMachine.js</tspan>
-<tspan x="10" y="3306">159.  2017-04-18 16:30:54 +0000    85680 bytes  lib/commands/arm/vm/vm.js</tspan>
-<tspan x="10" y="3322">160.  2017-04-18 16:30:54 +0000     1503 bytes  lib/commands/arm/vm/vmAvailabilitySetProfile.js</tspan>
-<tspan x="10" y="3338">161.  2017-04-18 16:30:54 +0000   135859 bytes  lib/commands/arm/vm/vmClient.js</tspan>
-<tspan x="10" y="3354">162.  2017-04-18 16:30:54 +0000     2109 bytes  lib/commands/arm/vm/vmDiagnosticsProfile.js</tspan>
-<tspan x="10" y="3370">163.  2017-04-18 16:30:54 +0000    54962 bytes  lib/commands/arm/vm/vmExtensionProfile.js</tspan>
-<tspan x="10" y="3386">164.  2017-04-18 16:30:54 +0000     1751 bytes  lib/commands/arm/vm/vmHardwareProfile.js</tspan>
-<tspan x="10" y="3402">165.  2017-04-18 16:30:54 +0000    25723 bytes  lib/commands/arm/vm/vmImage.js</tspan>
-<tspan x="10" y="3418">166.  2017-04-18 16:30:54 +0000     6750 bytes  lib/commands/arm/vm/vmNetworkProfile.js</tspan>
-<tspan x="10" y="3434">167.  2017-04-18 16:30:54 +0000     9317 bytes  lib/commands/arm/vm/vmOsProfile.js</tspan>
-<tspan x="10" y="3450">168.  2017-04-18 16:30:54 +0000    13241 bytes  lib/commands/arm/vm/vmProfile.js</tspan>
-<tspan x="10" y="3466">169.  2017-04-18 16:30:54 +0000    19729 bytes  lib/commands/arm/vm/vmShowUtil.js</tspan>
-<tspan x="10" y="3482">170.  2017-04-18 16:30:54 +0000    34497 bytes  lib/commands/arm/vm/vmStorageProfile.js</tspan>
-<tspan x="10" y="3498">171.  2017-04-18 16:30:54 +0000    23671 bytes  lib/commands/arm/vmss/vmss.js</tspan>
-<tspan x="10" y="3514">172.  2017-04-18 16:30:54 +0000    48498 bytes  lib/commands/arm/webapp/webapp.config.js</tspan>
-<tspan x="10" y="3530">173.  2017-04-18 16:30:54 +0000    19731 bytes  lib/commands/arm/webapp/webapp.js</tspan>
-<tspan x="10" y="3546">174.  2017-04-18 16:30:54 +0000      852 bytes  lib/commands/arm/webapp/webappUtils.js</tspan>
-<tspan x="10" y="3562">175.  2017-04-18 16:30:54 +0000      253 bytes  lib/commands/asm/README.md</tspan>
-<tspan x="10" y="3578">176.  2017-04-18 16:30:54 +0000     7029 bytes  lib/commands/asm/account.affinitygroup.js</tspan>
-<tspan x="10" y="3594">177.  2017-04-18 16:30:54 +0000     2676 bytes  lib/commands/asm/account.cert.js</tspan>
-<tspan x="10" y="3610">178.  2017-04-18 16:30:54 +0000    15661 bytes  lib/commands/asm/compute/deployment.js</tspan>
-<tspan x="10" y="3626">179.  2017-04-18 16:30:54 +0000     3016 bytes  lib/commands/asm/compute/virtualMachine.js</tspan>
-<tspan x="10" y="3642">180.  2017-04-18 16:30:54 +0000    46193 bytes  lib/commands/asm/hdinsight.js</tspan>
-<tspan x="10" y="3658">181.  2017-04-18 16:30:54 +0000     4974 bytes  lib/commands/asm/iaas/deleteImage.js</tspan>
-<tspan x="10" y="3674">182.  2017-04-18 16:30:54 +0000    18555 bytes  lib/commands/asm/iaas/image.js</tspan>
-<tspan x="10" y="3690">183.  2017-04-18 16:30:54 +0000     4387 bytes  lib/commands/asm/iaas/upload/blobInfo.js</tspan>
-<tspan x="10" y="3706">184.  2017-04-18 16:30:54 +0000     1951 bytes  lib/commands/asm/iaas/upload/bufferStream.js</tspan>
-<tspan x="10" y="3722">185.  2017-04-18 16:30:54 +0000     3742 bytes  lib/commands/asm/iaas/upload/intSet.js</tspan>
-<tspan x="10" y="3738">186.  2017-04-18 16:30:54 +0000     2220 bytes  lib/commands/asm/iaas/upload/jobTracker.js</tspan>
-<tspan x="10" y="3754">187.  2017-04-18 16:30:54 +0000    28186 bytes  lib/commands/asm/iaas/upload/pageBlob.js</tspan>
-<tspan x="10" y="3770">188.  2017-04-18 16:30:54 +0000     3798 bytes  lib/commands/asm/iaas/upload/streamMerger.js</tspan>
-<tspan x="10" y="3786">189.  2017-04-18 16:30:54 +0000     5810 bytes  lib/commands/asm/iaas/upload/uploadVMImage.js</tspan>
-<tspan x="10" y="3802">190.  2017-04-18 16:30:54 +0000    20540 bytes  lib/commands/asm/iaas/upload/vhdTools.js</tspan>
-<tspan x="10" y="3818">191.  2017-04-18 16:30:54 +0000   236636 bytes  lib/commands/asm/mobile.js</tspan>
-<tspan x="10" y="3834">192.  2017-04-18 16:30:54 +0000     3279 bytes  lib/commands/asm/mobile/pipelineChannel.js</tspan>
-<tspan x="10" y="3850">193.  2017-04-18 16:30:54 +0000    22905 bytes  lib/commands/asm/network.generated/network.js</tspan>
-<tspan x="10" y="3866">194.  2017-04-18 16:30:54 +0000    47415 bytes  lib/commands/asm/network/appGateway.js</tspan>
-<tspan x="10" y="3882">195.  2017-04-18 16:30:54 +0000     1939 bytes  lib/commands/asm/network/constants.js</tspan>
-<tspan x="10" y="3898">196.  2017-04-18 16:30:54 +0000     6934 bytes  lib/commands/asm/network/dnsServer.js</tspan>
-<tspan x="10" y="3914">197.  2017-04-18 16:30:54 +0000     3904 bytes  lib/commands/asm/network/jsontransform/jsontrans\</tspan>
+<tspan x="10" y="3162">150.  2017-04-18 16:34:07 +0000    12451 bytes  lib/commands/arm/tag/tag.js</tspan>
+<tspan x="10" y="3178">151.  2017-04-18 16:34:07 +0000     2574 bytes  lib/commands/arm/tag/tagUtils.js</tspan>
+<tspan x="10" y="3194">152.  2017-04-18 16:34:07 +0000     6000 bytes  lib/commands/arm/usage/usage.js</tspan>
+<tspan x="10" y="3210">153.  2017-04-18 16:34:07 +0000     6762 bytes  lib/commands/arm/vm/aemExtensionUtil.js</tspan>
+<tspan x="10" y="3226">154.  2017-04-18 16:34:07 +0000    27165 bytes  lib/commands/arm/vm/networkNic.js</tspan>
+<tspan x="10" y="3242">155.  2017-04-18 16:34:07 +0000    12178 bytes  lib/commands/arm/vm/networkPublicIP.js</tspan>
+<tspan x="10" y="3258">156.  2017-04-18 16:34:07 +0000    10510 bytes  lib/commands/arm/vm/networkVNet.js</tspan>
+<tspan x="10" y="3274">157.  2017-04-18 16:34:07 +0000    11814 bytes  lib/commands/arm/vm/networkVNetSubnet.js</tspan>
+<tspan x="10" y="3290">158.  2017-04-18 16:34:07 +0000    28762 bytes  lib/commands/arm/vm/virtualMachine.js</tspan>
+<tspan x="10" y="3306">159.  2017-04-18 16:34:07 +0000    85680 bytes  lib/commands/arm/vm/vm.js</tspan>
+<tspan x="10" y="3322">160.  2017-04-18 16:34:07 +0000     1503 bytes  lib/commands/arm/vm/vmAvailabilitySetProfile.js</tspan>
+<tspan x="10" y="3338">161.  2017-04-18 16:34:07 +0000   135859 bytes  lib/commands/arm/vm/vmClient.js</tspan>
+<tspan x="10" y="3354">162.  2017-04-18 16:34:07 +0000     2109 bytes  lib/commands/arm/vm/vmDiagnosticsProfile.js</tspan>
+<tspan x="10" y="3370">163.  2017-04-18 16:34:07 +0000    54962 bytes  lib/commands/arm/vm/vmExtensionProfile.js</tspan>
+<tspan x="10" y="3386">164.  2017-04-18 16:34:07 +0000     1751 bytes  lib/commands/arm/vm/vmHardwareProfile.js</tspan>
+<tspan x="10" y="3402">165.  2017-04-18 16:34:07 +0000    25723 bytes  lib/commands/arm/vm/vmImage.js</tspan>
+<tspan x="10" y="3418">166.  2017-04-18 16:34:07 +0000     6750 bytes  lib/commands/arm/vm/vmNetworkProfile.js</tspan>
+<tspan x="10" y="3434">167.  2017-04-18 16:34:07 +0000     9317 bytes  lib/commands/arm/vm/vmOsProfile.js</tspan>
+<tspan x="10" y="3450">168.  2017-04-18 16:34:07 +0000    13241 bytes  lib/commands/arm/vm/vmProfile.js</tspan>
+<tspan x="10" y="3466">169.  2017-04-18 16:34:07 +0000    19729 bytes  lib/commands/arm/vm/vmShowUtil.js</tspan>
+<tspan x="10" y="3482">170.  2017-04-18 16:34:07 +0000    34497 bytes  lib/commands/arm/vm/vmStorageProfile.js</tspan>
+<tspan x="10" y="3498">171.  2017-04-18 16:34:07 +0000    23671 bytes  lib/commands/arm/vmss/vmss.js</tspan>
+<tspan x="10" y="3514">172.  2017-04-18 16:34:07 +0000    48498 bytes  lib/commands/arm/webapp/webapp.config.js</tspan>
+<tspan x="10" y="3530">173.  2017-04-18 16:34:07 +0000    19731 bytes  lib/commands/arm/webapp/webapp.js</tspan>
+<tspan x="10" y="3546">174.  2017-04-18 16:34:07 +0000      852 bytes  lib/commands/arm/webapp/webappUtils.js</tspan>
+<tspan x="10" y="3562">175.  2017-04-18 16:34:07 +0000      253 bytes  lib/commands/asm/README.md</tspan>
+<tspan x="10" y="3578">176.  2017-04-18 16:34:07 +0000     7029 bytes  lib/commands/asm/account.affinitygroup.js</tspan>
+<tspan x="10" y="3594">177.  2017-04-18 16:34:07 +0000     2676 bytes  lib/commands/asm/account.cert.js</tspan>
+<tspan x="10" y="3610">178.  2017-04-18 16:34:07 +0000    15661 bytes  lib/commands/asm/compute/deployment.js</tspan>
+<tspan x="10" y="3626">179.  2017-04-18 16:34:07 +0000     3016 bytes  lib/commands/asm/compute/virtualMachine.js</tspan>
+<tspan x="10" y="3642">180.  2017-04-18 16:34:07 +0000    46193 bytes  lib/commands/asm/hdinsight.js</tspan>
+<tspan x="10" y="3658">181.  2017-04-18 16:34:07 +0000     4974 bytes  lib/commands/asm/iaas/deleteImage.js</tspan>
+<tspan x="10" y="3674">182.  2017-04-18 16:34:07 +0000    18555 bytes  lib/commands/asm/iaas/image.js</tspan>
+<tspan x="10" y="3690">183.  2017-04-18 16:34:07 +0000     4387 bytes  lib/commands/asm/iaas/upload/blobInfo.js</tspan>
+<tspan x="10" y="3706">184.  2017-04-18 16:34:07 +0000     1951 bytes  lib/commands/asm/iaas/upload/bufferStream.js</tspan>
+<tspan x="10" y="3722">185.  2017-04-18 16:34:07 +0000     3742 bytes  lib/commands/asm/iaas/upload/intSet.js</tspan>
+<tspan x="10" y="3738">186.  2017-04-18 16:34:07 +0000     2220 bytes  lib/commands/asm/iaas/upload/jobTracker.js</tspan>
+<tspan x="10" y="3754">187.  2017-04-18 16:34:07 +0000    28186 bytes  lib/commands/asm/iaas/upload/pageBlob.js</tspan>
+<tspan x="10" y="3770">188.  2017-04-18 16:34:07 +0000     3798 bytes  lib/commands/asm/iaas/upload/streamMerger.js</tspan>
+<tspan x="10" y="3786">189.  2017-04-18 16:34:07 +0000     5810 bytes  lib/commands/asm/iaas/upload/uploadVMImage.js</tspan>
+<tspan x="10" y="3802">190.  2017-04-18 16:34:07 +0000    20540 bytes  lib/commands/asm/iaas/upload/vhdTools.js</tspan>
+<tspan x="10" y="3818">191.  2017-04-18 16:34:07 +0000   236636 bytes  lib/commands/asm/mobile.js</tspan>
+<tspan x="10" y="3834">192.  2017-04-18 16:34:07 +0000     3279 bytes  lib/commands/asm/mobile/pipelineChannel.js</tspan>
+<tspan x="10" y="3850">193.  2017-04-18 16:34:07 +0000    22905 bytes  lib/commands/asm/network.generated/network.js</tspan>
+<tspan x="10" y="3866">194.  2017-04-18 16:34:07 +0000    47415 bytes  lib/commands/asm/network/appGateway.js</tspan>
+<tspan x="10" y="3882">195.  2017-04-18 16:34:07 +0000     1939 bytes  lib/commands/asm/network/constants.js</tspan>
+<tspan x="10" y="3898">196.  2017-04-18 16:34:07 +0000     6934 bytes  lib/commands/asm/network/dnsServer.js</tspan>
+<tspan x="10" y="3914">197.  2017-04-18 16:34:07 +0000     3904 bytes  lib/commands/asm/network/jsontransform/jsontrans\</tspan>
 <tspan x="10" y="3930">former.js</tspan>
-<tspan x="10" y="3946">198.  2017-04-18 16:30:54 +0000    19514 bytes  lib/commands/asm/network/jsontransform/networkma\</tspan>
+<tspan x="10" y="3946">198.  2017-04-18 16:34:07 +0000    19514 bytes  lib/commands/asm/network/jsontransform/networkma\</tspan>
 <tspan x="10" y="3962">nagementmeta.json</tspan>
-<tspan x="10" y="3978">199.  2017-04-18 16:30:54 +0000    18258 bytes  lib/commands/asm/network/localNetwork.js</tspan>
-<tspan x="10" y="3994">200.  2017-04-18 16:30:54 +0000   120646 bytes  lib/commands/asm/network/network.js</tspan>
-<tspan x="10" y="4010">201.  2017-04-18 16:30:54 +0000     4398 bytes  lib/commands/asm/network/networkConfig.js</tspan>
-<tspan x="10" y="4026">202.  2017-04-18 16:30:54 +0000    21620 bytes  lib/commands/asm/network/nsg.js</tspan>
-<tspan x="10" y="4042">203.  2017-04-18 16:30:54 +0000     7041 bytes  lib/commands/asm/network/reservedIp.js</tspan>
-<tspan x="10" y="4058">204.  2017-04-18 16:30:54 +0000    21255 bytes  lib/commands/asm/network/routeTable.js</tspan>
-<tspan x="10" y="4074">205.  2017-04-18 16:30:54 +0000     1927 bytes  lib/commands/asm/network/staticIp.js</tspan>
-<tspan x="10" y="4090">206.  2017-04-18 16:30:54 +0000    15442 bytes  lib/commands/asm/network/subnet.js</tspan>
-<tspan x="10" y="4106">207.  2017-04-18 16:30:54 +0000    30220 bytes  lib/commands/asm/network/trafficManager.js</tspan>
-<tspan x="10" y="4122">208.  2017-04-18 16:30:54 +0000    29998 bytes  lib/commands/asm/network/virtualNetwork.js</tspan>
-<tspan x="10" y="4138">209.  2017-04-18 16:30:54 +0000    25115 bytes  lib/commands/asm/network/vpnGateway.js</tspan>
-<tspan x="10" y="4154">210.  2017-04-18 16:30:54 +0000     2317 bytes  lib/commands/asm/provider.js</tspan>
-<tspan x="10" y="4170">211.  2017-04-18 16:30:54 +0000    10446 bytes  lib/commands/asm/sb.js</tspan>
-<tspan x="10" y="4186">212.  2017-04-18 16:30:54 +0000    11551 bytes  lib/commands/asm/service.cert.js</tspan>
-<tspan x="10" y="4202">213.  2017-04-18 16:30:54 +0000    15273 bytes  lib/commands/asm/service.internallb.js</tspan>
-<tspan x="10" y="4218">214.  2017-04-18 16:30:54 +0000    13731 bytes  lib/commands/asm/service.js</tspan>
-<tspan x="10" y="4234">215.  2017-04-18 16:30:54 +0000    12386 bytes  lib/commands/asm/service.lbset.js</tspan>
-<tspan x="10" y="4250">216.  2017-04-18 16:30:54 +0000     9328 bytes  lib/commands/asm/site.appsetting.js</tspan>
-<tspan x="10" y="4266">217.  2017-04-18 16:30:54 +0000     2818 bytes  lib/commands/asm/site.config.js</tspan>
-<tspan x="10" y="4282">218.  2017-04-18 16:30:54 +0000     9435 bytes  lib/commands/asm/site.connectionstring.js</tspan>
-<tspan x="10" y="4298">219.  2017-04-18 16:30:54 +0000     6831 bytes  lib/commands/asm/site.defaultdocument.js</tspan>
-<tspan x="10" y="4314">220.  2017-04-18 16:30:54 +0000    25228 bytes  lib/commands/asm/site.deployment.js</tspan>
-<tspan x="10" y="4330">221.  2017-04-18 16:30:54 +0000     5902 bytes  lib/commands/asm/site.domain.js</tspan>
-<tspan x="10" y="4346">222.  2017-04-18 16:30:54 +0000     6938 bytes  lib/commands/asm/site.handler.js</tspan>
-<tspan x="10" y="4362">223.  2017-04-18 16:30:54 +0000    21928 bytes  lib/commands/asm/site.jobs.js</tspan>
-<tspan x="10" y="4378">224.  2017-04-18 16:30:54 +0000    44823 bytes  lib/commands/asm/site.js</tspan>
-<tspan x="10" y="4394">225.  2017-04-18 16:30:54 +0000    11596 bytes  lib/commands/asm/site.log.js</tspan>
-<tspan x="10" y="4410">226.  2017-04-18 16:30:54 +0000    11163 bytes  lib/commands/asm/site.repository.js</tspan>
-<tspan x="10" y="4426">227.  2017-04-18 16:30:54 +0000     5520 bytes  lib/commands/asm/site.scale.js</tspan>
-<tspan x="10" y="4442">228.  2017-04-18 16:30:54 +0000    34159 bytes  lib/commands/asm/sql.js</tspan>
-<tspan x="10" y="4458">229.  2017-04-18 16:30:54 +0000     6240 bytes  lib/commands/asm/storage.generated/storageAccoun\</tspan>
+<tspan x="10" y="3978">199.  2017-04-18 16:34:07 +0000    18258 bytes  lib/commands/asm/network/localNetwork.js</tspan>
+<tspan x="10" y="3994">200.  2017-04-18 16:34:07 +0000   120646 bytes  lib/commands/asm/network/network.js</tspan>
+<tspan x="10" y="4010">201.  2017-04-18 16:34:07 +0000     4398 bytes  lib/commands/asm/network/networkConfig.js</tspan>
+<tspan x="10" y="4026">202.  2017-04-18 16:34:07 +0000    21620 bytes  lib/commands/asm/network/nsg.js</tspan>
+<tspan x="10" y="4042">203.  2017-04-18 16:34:07 +0000     7041 bytes  lib/commands/asm/network/reservedIp.js</tspan>
+<tspan x="10" y="4058">204.  2017-04-18 16:34:07 +0000    21255 bytes  lib/commands/asm/network/routeTable.js</tspan>
+<tspan x="10" y="4074">205.  2017-04-18 16:34:07 +0000     1927 bytes  lib/commands/asm/network/staticIp.js</tspan>
+<tspan x="10" y="4090">206.  2017-04-18 16:34:07 +0000    15442 bytes  lib/commands/asm/network/subnet.js</tspan>
+<tspan x="10" y="4106">207.  2017-04-18 16:34:07 +0000    30220 bytes  lib/commands/asm/network/trafficManager.js</tspan>
+<tspan x="10" y="4122">208.  2017-04-18 16:34:07 +0000    29998 bytes  lib/commands/asm/network/virtualNetwork.js</tspan>
+<tspan x="10" y="4138">209.  2017-04-18 16:34:07 +0000    25115 bytes  lib/commands/asm/network/vpnGateway.js</tspan>
+<tspan x="10" y="4154">210.  2017-04-18 16:34:07 +0000     2317 bytes  lib/commands/asm/provider.js</tspan>
+<tspan x="10" y="4170">211.  2017-04-18 16:34:07 +0000    10446 bytes  lib/commands/asm/sb.js</tspan>
+<tspan x="10" y="4186">212.  2017-04-18 16:34:07 +0000    11551 bytes  lib/commands/asm/service.cert.js</tspan>
+<tspan x="10" y="4202">213.  2017-04-18 16:34:07 +0000    15273 bytes  lib/commands/asm/service.internallb.js</tspan>
+<tspan x="10" y="4218">214.  2017-04-18 16:34:07 +0000    13731 bytes  lib/commands/asm/service.js</tspan>
+<tspan x="10" y="4234">215.  2017-04-18 16:34:07 +0000    12386 bytes  lib/commands/asm/service.lbset.js</tspan>
+<tspan x="10" y="4250">216.  2017-04-18 16:34:07 +0000     9328 bytes  lib/commands/asm/site.appsetting.js</tspan>
+<tspan x="10" y="4266">217.  2017-04-18 16:34:07 +0000     2818 bytes  lib/commands/asm/site.config.js</tspan>
+<tspan x="10" y="4282">218.  2017-04-18 16:34:07 +0000     9435 bytes  lib/commands/asm/site.connectionstring.js</tspan>
+<tspan x="10" y="4298">219.  2017-04-18 16:34:07 +0000     6831 bytes  lib/commands/asm/site.defaultdocument.js</tspan>
+<tspan x="10" y="4314">220.  2017-04-18 16:34:07 +0000    25228 bytes  lib/commands/asm/site.deployment.js</tspan>
+<tspan x="10" y="4330">221.  2017-04-18 16:34:07 +0000     5902 bytes  lib/commands/asm/site.domain.js</tspan>
+<tspan x="10" y="4346">222.  2017-04-18 16:34:07 +0000     6938 bytes  lib/commands/asm/site.handler.js</tspan>
+<tspan x="10" y="4362">223.  2017-04-18 16:34:07 +0000    21928 bytes  lib/commands/asm/site.jobs.js</tspan>
+<tspan x="10" y="4378">224.  2017-04-18 16:34:07 +0000    44823 bytes  lib/commands/asm/site.js</tspan>
+<tspan x="10" y="4394">225.  2017-04-18 16:34:07 +0000    11596 bytes  lib/commands/asm/site.log.js</tspan>
+<tspan x="10" y="4410">226.  2017-04-18 16:34:07 +0000    11163 bytes  lib/commands/asm/site.repository.js</tspan>
+<tspan x="10" y="4426">227.  2017-04-18 16:34:07 +0000     5520 bytes  lib/commands/asm/site.scale.js</tspan>
+<tspan x="10" y="4442">228.  2017-04-18 16:34:07 +0000    34159 bytes  lib/commands/asm/sql.js</tspan>
+<tspan x="10" y="4458">229.  2017-04-18 16:34:07 +0000     6240 bytes  lib/commands/asm/storage.generated/storageAccoun\</tspan>
 <tspan x="10" y="4474">t.js</tspan>
-<tspan x="10" y="4490">230.  2017-04-18 16:30:54 +0000    37571 bytes  lib/commands/asm/vm.js</tspan>
-<tspan x="10" y="4506">231.  2017-04-18 16:30:54 +0000     1705 bytes  lib/commands/asm/vm/vmUtils.js</tspan>
-<tspan x="10" y="4522">232.  2017-04-18 16:30:54 +0000   199429 bytes  lib/commands/asm/vm/vmclient.js</tspan>
-<tspan x="10" y="4538">233.  2017-04-18 16:30:54 +0000     2533 bytes  lib/commands/asm/websites/validation.js</tspan>
-<tspan x="10" y="4554">234.  2017-04-18 16:30:54 +0000    49976 bytes  lib/commands/asm/websites/websitesclient.js</tspan>
-<tspan x="10" y="4570">235.  2017-04-18 16:30:54 +0000     2111 bytes  lib/commands/batch.js</tspan>
-<tspan x="10" y="4586">236.  2017-04-18 16:30:54 +0000    20317 bytes  lib/commands/batch/batch.application.js</tspan>
-<tspan x="10" y="4602">237.  2017-04-18 16:30:54 +0000    13560 bytes  lib/commands/batch/batch.applicationPackage.js</tspan>
-<tspan x="10" y="4618">238.  2017-04-18 16:30:54 +0000    22190 bytes  lib/commands/batch/batch.batchAccount.js</tspan>
-<tspan x="10" y="4634">239.  2017-04-18 16:30:54 +0000    16128 bytes  lib/commands/batch/batch.certificate.js</tspan>
-<tspan x="10" y="4650">240.  2017-04-18 16:30:54 +0000    40861 bytes  lib/commands/batch/batch.file.js</tspan>
-<tspan x="10" y="4666">241.  2017-04-18 16:30:54 +0000    36847 bytes  lib/commands/batch/batch.job.js</tspan>
-<tspan x="10" y="4682">242.  2017-04-18 16:30:54 +0000    37165 bytes  lib/commands/batch/batch.jobSchedule.js</tspan>
-<tspan x="10" y="4698">243.  2017-04-18 16:30:54 +0000     2118 bytes  lib/commands/batch/batch.location.js</tspan>
-<tspan x="10" y="4714">244.  2017-04-18 16:30:54 +0000    39856 bytes  lib/commands/batch/batch.node.js</tspan>
-<tspan x="10" y="4730">245.  2017-04-18 16:30:54 +0000    56523 bytes  lib/commands/batch/batch.pool.js</tspan>
-<tspan x="10" y="4746">246.  2017-04-18 16:30:54 +0000    43220 bytes  lib/commands/batch/batch.showUtil.js</tspan>
-<tspan x="10" y="4762">247.  2017-04-18 16:30:54 +0000    32449 bytes  lib/commands/batch/batch.task.js</tspan>
-<tspan x="10" y="4778">248.  2017-04-18 16:30:54 +0000     6263 bytes  lib/commands/batch/batch.util.js</tspan>
-<tspan x="10" y="4794">249.  2017-04-18 16:30:54 +0000     2934 bytes  lib/commands/config.js</tspan>
-<tspan x="10" y="4810">250.  2017-04-18 16:30:54 +0000     1393 bytes  lib/commands/help.js</tspan>
-<tspan x="10" y="4826">251.  2017-04-18 16:30:54 +0000    10306 bytes  lib/commands/login.js</tspan>
-<tspan x="10" y="4842">252.  2017-04-18 16:30:54 +0000     1407 bytes  lib/commands/portal.js</tspan>
-<tspan x="10" y="4858">253.  2017-04-18 16:30:54 +0000     2120 bytes  lib/commands/serviceFabric.js</tspan>
-<tspan x="10" y="4874">254.  2017-04-18 16:30:54 +0000    49484 bytes  lib/commands/servicefabric/serviceFabricApplicat\</tspan>
+<tspan x="10" y="4490">230.  2017-04-18 16:34:07 +0000    37571 bytes  lib/commands/asm/vm.js</tspan>
+<tspan x="10" y="4506">231.  2017-04-18 16:34:07 +0000     1705 bytes  lib/commands/asm/vm/vmUtils.js</tspan>
+<tspan x="10" y="4522">232.  2017-04-18 16:34:07 +0000   199429 bytes  lib/commands/asm/vm/vmclient.js</tspan>
+<tspan x="10" y="4538">233.  2017-04-18 16:34:07 +0000     2533 bytes  lib/commands/asm/websites/validation.js</tspan>
+<tspan x="10" y="4554">234.  2017-04-18 16:34:07 +0000    49976 bytes  lib/commands/asm/websites/websitesclient.js</tspan>
+<tspan x="10" y="4570">235.  2017-04-18 16:34:07 +0000     2111 bytes  lib/commands/batch.js</tspan>
+<tspan x="10" y="4586">236.  2017-04-18 16:34:07 +0000    20317 bytes  lib/commands/batch/batch.application.js</tspan>
+<tspan x="10" y="4602">237.  2017-04-18 16:34:07 +0000    13560 bytes  lib/commands/batch/batch.applicationPackage.js</tspan>
+<tspan x="10" y="4618">238.  2017-04-18 16:34:07 +0000    22190 bytes  lib/commands/batch/batch.batchAccount.js</tspan>
+<tspan x="10" y="4634">239.  2017-04-18 16:34:07 +0000    16128 bytes  lib/commands/batch/batch.certificate.js</tspan>
+<tspan x="10" y="4650">240.  2017-04-18 16:34:07 +0000    40861 bytes  lib/commands/batch/batch.file.js</tspan>
+<tspan x="10" y="4666">241.  2017-04-18 16:34:07 +0000    36847 bytes  lib/commands/batch/batch.job.js</tspan>
+<tspan x="10" y="4682">242.  2017-04-18 16:34:07 +0000    37165 bytes  lib/commands/batch/batch.jobSchedule.js</tspan>
+<tspan x="10" y="4698">243.  2017-04-18 16:34:07 +0000     2118 bytes  lib/commands/batch/batch.location.js</tspan>
+<tspan x="10" y="4714">244.  2017-04-18 16:34:07 +0000    39856 bytes  lib/commands/batch/batch.node.js</tspan>
+<tspan x="10" y="4730">245.  2017-04-18 16:34:07 +0000    56523 bytes  lib/commands/batch/batch.pool.js</tspan>
+<tspan x="10" y="4746">246.  2017-04-18 16:34:07 +0000    43220 bytes  lib/commands/batch/batch.showUtil.js</tspan>
+<tspan x="10" y="4762">247.  2017-04-18 16:34:07 +0000    32449 bytes  lib/commands/batch/batch.task.js</tspan>
+<tspan x="10" y="4778">248.  2017-04-18 16:34:07 +0000     6263 bytes  lib/commands/batch/batch.util.js</tspan>
+<tspan x="10" y="4794">249.  2017-04-18 16:34:07 +0000     2934 bytes  lib/commands/config.js</tspan>
+<tspan x="10" y="4810">250.  2017-04-18 16:34:07 +0000     1393 bytes  lib/commands/help.js</tspan>
+<tspan x="10" y="4826">251.  2017-04-18 16:34:07 +0000    10306 bytes  lib/commands/login.js</tspan>
+<tspan x="10" y="4842">252.  2017-04-18 16:34:07 +0000     1407 bytes  lib/commands/portal.js</tspan>
+<tspan x="10" y="4858">253.  2017-04-18 16:34:07 +0000     2120 bytes  lib/commands/serviceFabric.js</tspan>
+<tspan x="10" y="4874">254.  2017-04-18 16:34:07 +0000    49484 bytes  lib/commands/servicefabric/serviceFabricApplicat\</tspan>
 <tspan x="10" y="4890">ion.js</tspan>
-<tspan x="10" y="4906">255.  2017-04-18 16:30:54 +0000    18902 bytes  lib/commands/servicefabric/serviceFabricCluster.\</tspan>
+<tspan x="10" y="4906">255.  2017-04-18 16:34:07 +0000    18902 bytes  lib/commands/servicefabric/serviceFabricCluster.\</tspan>
 <tspan x="10" y="4922">js</tspan>
-<tspan x="10" y="4938">256.  2017-04-18 16:30:54 +0000    15886 bytes  lib/commands/servicefabric/serviceFabricNode.js</tspan>
-<tspan x="10" y="4954">257.  2017-04-18 16:30:54 +0000    18952 bytes  lib/commands/servicefabric/serviceFabricPackage.\</tspan>
+<tspan x="10" y="4938">256.  2017-04-18 16:34:07 +0000    15886 bytes  lib/commands/servicefabric/serviceFabricNode.js</tspan>
+<tspan x="10" y="4954">257.  2017-04-18 16:34:07 +0000    18952 bytes  lib/commands/servicefabric/serviceFabricPackage.\</tspan>
 <tspan x="10" y="4970">js</tspan>
-<tspan x="10" y="4986">258.  2017-04-18 16:30:54 +0000    15045 bytes  lib/commands/servicefabric/serviceFabricPartitio\</tspan>
+<tspan x="10" y="4986">258.  2017-04-18 16:34:07 +0000    15045 bytes  lib/commands/servicefabric/serviceFabricPartitio\</tspan>
 <tspan x="10" y="5002">n.js</tspan>
-<tspan x="10" y="5018">259.  2017-04-18 16:30:54 +0000    15508 bytes  lib/commands/servicefabric/serviceFabricReplica.\</tspan>
+<tspan x="10" y="5018">259.  2017-04-18 16:34:07 +0000    15508 bytes  lib/commands/servicefabric/serviceFabricReplica.\</tspan>
 <tspan x="10" y="5034">js</tspan>
-<tspan x="10" y="5050">260.  2017-04-18 16:30:54 +0000    40225 bytes  lib/commands/servicefabric/serviceFabricService.\</tspan>
+<tspan x="10" y="5050">260.  2017-04-18 16:34:07 +0000    40225 bytes  lib/commands/servicefabric/serviceFabricService.\</tspan>
 <tspan x="10" y="5066">js</tspan>
-<tspan x="10" y="5082">261.  2017-04-18 16:30:54 +0000    26726 bytes  lib/commands/servicefabric/serviceFabricServiceG\</tspan>
+<tspan x="10" y="5082">261.  2017-04-18 16:34:07 +0000    26726 bytes  lib/commands/servicefabric/serviceFabricServiceG\</tspan>
 <tspan x="10" y="5098">roup.js</tspan>
-<tspan x="10" y="5114">262.  2017-04-18 16:30:54 +0000    16428 bytes  lib/commands/servicefabric/serviceFabricUtils.js</tspan>
-<tspan x="10" y="5130">263.  2017-04-18 16:30:54 +0000     2113 bytes  lib/commands/storage.js</tspan>
-<tspan x="10" y="5146">264.  2017-04-18 16:30:54 +0000    49125 bytes  lib/commands/storage/storage.account.js</tspan>
-<tspan x="10" y="5162">265.  2017-04-18 16:30:54 +0000    93245 bytes  lib/commands/storage/storage.blob.js</tspan>
-<tspan x="10" y="5178">266.  2017-04-18 16:30:54 +0000    63628 bytes  lib/commands/storage/storage.file.js</tspan>
-<tspan x="10" y="5194">267.  2017-04-18 16:30:54 +0000    26228 bytes  lib/commands/storage/storage.queue.js</tspan>
-<tspan x="10" y="5210">268.  2017-04-18 16:30:54 +0000    28769 bytes  lib/commands/storage/storage.service.js</tspan>
-<tspan x="10" y="5226">269.  2017-04-18 16:30:54 +0000    25944 bytes  lib/commands/storage/storage.table.js</tspan>
-<tspan x="10" y="5242">270.  2017-04-18 16:30:54 +0000     1912 bytes  lib/commands/telemetry.js</tspan>
-<tspan x="10" y="5258">271.  2017-04-18 16:30:54 +0000  1236736 bytes  lib/locales/en-us.json</tspan>
-<tspan x="10" y="5274">272.  2017-04-18 16:30:54 +0000  4380417 bytes  lib/plugins.arm.json</tspan>
-<tspan x="10" y="5290">273.  2017-04-18 16:30:54 +0000  1790651 bytes  lib/plugins.asm.json</tspan>
-<tspan x="10" y="5306">274.  2017-04-18 16:30:54 +0000      889 bytes  lib/templates/node/iisnode.yml</tspan>
-<tspan x="10" y="5322">275.  2017-04-18 16:30:54 +0000     2297 bytes  lib/util/aliases/image.json</tspan>
-<tspan x="10" y="5338">276.  2017-04-18 16:30:54 +0000     3657 bytes  lib/util/authentication/adalAuth.js</tspan>
-<tspan x="10" y="5354">277.  2017-04-18 16:30:54 +0000     5570 bytes  lib/util/authentication/adalAuthForServicePrinci\</tspan>
+<tspan x="10" y="5114">262.  2017-04-18 16:34:07 +0000    16428 bytes  lib/commands/servicefabric/serviceFabricUtils.js</tspan>
+<tspan x="10" y="5130">263.  2017-04-18 16:34:07 +0000     2113 bytes  lib/commands/storage.js</tspan>
+<tspan x="10" y="5146">264.  2017-04-18 16:34:07 +0000    49125 bytes  lib/commands/storage/storage.account.js</tspan>
+<tspan x="10" y="5162">265.  2017-04-18 16:34:07 +0000    93245 bytes  lib/commands/storage/storage.blob.js</tspan>
+<tspan x="10" y="5178">266.  2017-04-18 16:34:07 +0000    63628 bytes  lib/commands/storage/storage.file.js</tspan>
+<tspan x="10" y="5194">267.  2017-04-18 16:34:07 +0000    26228 bytes  lib/commands/storage/storage.queue.js</tspan>
+<tspan x="10" y="5210">268.  2017-04-18 16:34:07 +0000    28769 bytes  lib/commands/storage/storage.service.js</tspan>
+<tspan x="10" y="5226">269.  2017-04-18 16:34:07 +0000    25944 bytes  lib/commands/storage/storage.table.js</tspan>
+<tspan x="10" y="5242">270.  2017-04-18 16:34:07 +0000     1912 bytes  lib/commands/telemetry.js</tspan>
+<tspan x="10" y="5258">271.  2017-04-18 16:34:07 +0000  1236736 bytes  lib/locales/en-us.json</tspan>
+<tspan x="10" y="5274">272.  2017-04-18 16:34:07 +0000  4380417 bytes  lib/plugins.arm.json</tspan>
+<tspan x="10" y="5290">273.  2017-04-18 16:34:07 +0000  1790651 bytes  lib/plugins.asm.json</tspan>
+<tspan x="10" y="5306">274.  2017-04-18 16:34:07 +0000      889 bytes  lib/templates/node/iisnode.yml</tspan>
+<tspan x="10" y="5322">275.  2017-04-18 16:34:07 +0000     2297 bytes  lib/util/aliases/image.json</tspan>
+<tspan x="10" y="5338">276.  2017-04-18 16:34:07 +0000     3657 bytes  lib/util/authentication/adalAuth.js</tspan>
+<tspan x="10" y="5354">277.  2017-04-18 16:34:07 +0000     5570 bytes  lib/util/authentication/adalAuthForServicePrinci\</tspan>
 <tspan x="10" y="5370">pal.js</tspan>
-<tspan x="10" y="5386">278.  2017-04-18 16:30:54 +0000     3904 bytes  lib/util/authentication/adalAuthForUser.js</tspan>
-<tspan x="10" y="5402">279.  2017-04-18 16:30:54 +0000     2138 bytes  lib/util/authentication/file-token-storage.js</tspan>
-<tspan x="10" y="5418">280.  2017-04-18 16:30:54 +0000     4198 bytes  lib/util/authentication/osx-keychain-parser.js</tspan>
-<tspan x="10" y="5434">281.  2017-04-18 16:30:54 +0000     3592 bytes  lib/util/authentication/osx-keychain.js</tspan>
-<tspan x="10" y="5450">282.  2017-04-18 16:30:54 +0000     2893 bytes  lib/util/authentication/osx-token-storage.js</tspan>
-<tspan x="10" y="5466">283.  2017-04-18 16:30:54 +0000     2891 bytes  lib/util/authentication/token-cache-encoding.js</tspan>
-<tspan x="10" y="5482">284.  2017-04-18 16:30:54 +0000     6373 bytes  lib/util/authentication/token-cache.js</tspan>
-<tspan x="10" y="5498">285.  2017-04-18 16:30:54 +0000     1528 bytes  lib/util/authentication/token-entry-deserializer\</tspan>
+<tspan x="10" y="5386">278.  2017-04-18 16:34:07 +0000     3904 bytes  lib/util/authentication/adalAuthForUser.js</tspan>
+<tspan x="10" y="5402">279.  2017-04-18 16:34:07 +0000     2138 bytes  lib/util/authentication/file-token-storage.js</tspan>
+<tspan x="10" y="5418">280.  2017-04-18 16:34:07 +0000     4198 bytes  lib/util/authentication/osx-keychain-parser.js</tspan>
+<tspan x="10" y="5434">281.  2017-04-18 16:34:07 +0000     3592 bytes  lib/util/authentication/osx-keychain.js</tspan>
+<tspan x="10" y="5450">282.  2017-04-18 16:34:07 +0000     2893 bytes  lib/util/authentication/osx-token-storage.js</tspan>
+<tspan x="10" y="5466">283.  2017-04-18 16:34:07 +0000     2891 bytes  lib/util/authentication/token-cache-encoding.js</tspan>
+<tspan x="10" y="5482">284.  2017-04-18 16:34:07 +0000     6373 bytes  lib/util/authentication/token-cache.js</tspan>
+<tspan x="10" y="5498">285.  2017-04-18 16:34:07 +0000     1528 bytes  lib/util/authentication/token-entry-deserializer\</tspan>
 <tspan x="10" y="5514">.js</tspan>
-<tspan x="10" y="5530">286.  2017-04-18 16:30:54 +0000      997 bytes  lib/util/authentication/tokenCredentials.js</tspan>
-<tspan x="10" y="5546">287.  2017-04-18 16:30:54 +0000     3091 bytes  lib/util/authentication/win-credstore-parser.js</tspan>
-<tspan x="10" y="5562">288.  2017-04-18 16:30:54 +0000     4272 bytes  lib/util/authentication/win-credstore.js</tspan>
-<tspan x="10" y="5578">289.  2017-04-18 16:30:54 +0000     6094 bytes  lib/util/authentication/win-token-storage.js</tspan>
-<tspan x="10" y="5594">290.  2017-04-18 16:30:54 +0000     1672 bytes  lib/util/bitArray.js</tspan>
-<tspan x="10" y="5610">291.  2017-04-18 16:30:54 +0000     6258 bytes  lib/util/blobUtils.js</tspan>
-<tspan x="10" y="5626">292.  2017-04-18 16:30:54 +0000     7683 bytes  lib/util/cacheUtils.js</tspan>
-<tspan x="10" y="5642">293.  2017-04-18 16:30:54 +0000     2266 bytes  lib/util/callbackAggregator.js</tspan>
-<tspan x="10" y="5658">294.  2017-04-18 16:30:54 +0000     9402 bytes  lib/util/certUtils.js</tspan>
-<tspan x="10" y="5674">295.  2017-04-18 16:30:54 +0000     5680 bytes  lib/util/certificates/der.js</tspan>
-<tspan x="10" y="5690">296.  2017-04-18 16:30:54 +0000    14766 bytes  lib/util/certificates/pkcs.js</tspan>
-<tspan x="10" y="5706">297.  2017-04-18 16:30:54 +0000     1191 bytes  lib/util/cliUserAgentFilter.js</tspan>
-<tspan x="10" y="5722">298.  2017-04-18 16:30:54 +0000     1055 bytes  lib/util/commandMetadataFilter.js</tspan>
-<tspan x="10" y="5738">299.  2017-04-18 16:30:54 +0000     3703 bytes  lib/util/communityUtil.js</tspan>
-<tspan x="10" y="5754">300.  2017-04-18 16:30:54 +0000     2136 bytes  lib/util/constants.js</tspan>
-<tspan x="10" y="5770">301.  2017-04-18 16:30:54 +0000    19970 bytes  lib/util/endpointUtil.js</tspan>
-<tspan x="10" y="5786">302.  2017-04-18 16:30:54 +0000    13555 bytes  lib/util/extendedcommand.js</tspan>
-<tspan x="10" y="5802">303.  2017-04-18 16:30:54 +0000     4855 bytes  lib/util/generatorUtils.js</tspan>
-<tspan x="10" y="5818">304.  2017-04-18 16:30:54 +0000    30656 bytes  lib/util/git/linkedrevisioncontrol.js</tspan>
-<tspan x="10" y="5834">305.  2017-04-18 16:30:54 +0000    24971 bytes  lib/util/hdinsightHelper.js</tspan>
-<tspan x="10" y="5850">306.  2017-04-18 16:30:54 +0000    12161 bytes  lib/util/interaction.js</tspan>
-<tspan x="10" y="5866">307.  2017-04-18 16:30:54 +0000     1976 bytes  lib/util/keyFiles.js</tspan>
-<tspan x="10" y="5882">308.  2017-04-18 16:30:54 +0000     9676 bytes  lib/util/logging.js</tspan>
-<tspan x="10" y="5898">309.  2017-04-18 16:30:54 +0000    10783 bytes  lib/util/profile/account.js</tspan>
-<tspan x="10" y="5914">310.  2017-04-18 16:30:54 +0000     9973 bytes  lib/util/profile/environment.js</tspan>
-<tspan x="10" y="5930">311.  2017-04-18 16:30:54 +0000      764 bytes  lib/util/profile/index.js</tspan>
-<tspan x="10" y="5946">312.  2017-04-18 16:30:54 +0000    11537 bytes  lib/util/profile/profile.js</tspan>
-<tspan x="10" y="5962">313.  2017-04-18 16:30:54 +0000     2761 bytes  lib/util/profile/publishSettings.js</tspan>
-<tspan x="10" y="5978">314.  2017-04-18 16:30:54 +0000     9044 bytes  lib/util/profile/subscription.js</tspan>
-<tspan x="10" y="5994">315.  2017-04-18 16:30:54 +0000     2580 bytes  lib/util/set.js</tspan>
-<tspan x="10" y="6010">316.  2017-04-18 16:30:54 +0000    83666 bytes  lib/util/storage.util.js</tspan>
-<tspan x="10" y="6026">317.  2017-04-18 16:30:54 +0000    10164 bytes  lib/util/telemetry.js</tspan>
-<tspan x="10" y="6042">318.  2017-04-18 16:30:54 +0000     1666 bytes  lib/util/userAgentCore.js</tspan>
-<tspan x="10" y="6058">319.  2017-04-18 16:30:54 +0000    49820 bytes  lib/util/utils.js</tspan>
-<tspan x="10" y="6074">320.  2017-04-18 16:30:54 +0000     7369 bytes  lib/util/utilsCore.js</tspan>
-<tspan x="10" y="6090">321.  2017-04-18 16:30:54 +0000     5694 bytes  lib/util/validation.js</tspan>
-<tspan x="10" y="6106">322.  2017-04-18 16:30:54 +0000     3622 bytes  lib/util/vmConstants.js</tspan>
-<tspan x="10" y="6122">323.  2017-04-18 16:30:54 +0000    19287 bytes  lib/util/vnet.util.js</tspan>
-<tspan x="10" y="6138">324.  2017-04-18 16:30:54 +0000     2088 bytes  npm-debug.log</tspan>
-<tspan x="10" y="6154">325.  2017-04-18 16:30:54 +0000     7578 bytes  package.json</tspan>
-<tspan x="10" y="6170">326.  2017-04-18 16:30:54 +0000     2041 bytes  scripts/extract-labels.js</tspan>
-<tspan x="10" y="6186">327.  2017-04-18 16:30:54 +0000     5636 bytes  scripts/filter-testresults.js</tspan>
-<tspan x="10" y="6202">328.  2017-04-18 16:30:54 +0000     1504 bytes  scripts/generate_command_inventory.js</tspan>
-<tspan x="10" y="6218">329.  2017-04-18 16:30:54 +0000     1442 bytes  scripts/link-to-sdk.js</tspan>
-<tspan x="10" y="6234">330.  2017-04-18 16:30:54 +0000     2388 bytes  scripts/unit.js</tspan>
-<tspan x="10" y="6250">331.  2017-04-18 16:30:54 +0000      967 bytes  xcli-cloned.sln</tspan>
+<tspan x="10" y="5530">286.  2017-04-18 16:34:07 +0000      997 bytes  lib/util/authentication/tokenCredentials.js</tspan>
+<tspan x="10" y="5546">287.  2017-04-18 16:34:07 +0000     3091 bytes  lib/util/authentication/win-credstore-parser.js</tspan>
+<tspan x="10" y="5562">288.  2017-04-18 16:34:07 +0000     4272 bytes  lib/util/authentication/win-credstore.js</tspan>
+<tspan x="10" y="5578">289.  2017-04-18 16:34:07 +0000     6094 bytes  lib/util/authentication/win-token-storage.js</tspan>
+<tspan x="10" y="5594">290.  2017-04-18 16:34:07 +0000     1672 bytes  lib/util/bitArray.js</tspan>
+<tspan x="10" y="5610">291.  2017-04-18 16:34:07 +0000     6258 bytes  lib/util/blobUtils.js</tspan>
+<tspan x="10" y="5626">292.  2017-04-18 16:34:07 +0000     7683 bytes  lib/util/cacheUtils.js</tspan>
+<tspan x="10" y="5642">293.  2017-04-18 16:34:07 +0000     2266 bytes  lib/util/callbackAggregator.js</tspan>
+<tspan x="10" y="5658">294.  2017-04-18 16:34:07 +0000     9402 bytes  lib/util/certUtils.js</tspan>
+<tspan x="10" y="5674">295.  2017-04-18 16:34:07 +0000     5680 bytes  lib/util/certificates/der.js</tspan>
+<tspan x="10" y="5690">296.  2017-04-18 16:34:07 +0000    14766 bytes  lib/util/certificates/pkcs.js</tspan>
+<tspan x="10" y="5706">297.  2017-04-18 16:34:07 +0000     1191 bytes  lib/util/cliUserAgentFilter.js</tspan>
+<tspan x="10" y="5722">298.  2017-04-18 16:34:07 +0000     1055 bytes  lib/util/commandMetadataFilter.js</tspan>
+<tspan x="10" y="5738">299.  2017-04-18 16:34:07 +0000     3703 bytes  lib/util/communityUtil.js</tspan>
+<tspan x="10" y="5754">300.  2017-04-18 16:34:07 +0000     2136 bytes  lib/util/constants.js</tspan>
+<tspan x="10" y="5770">301.  2017-04-18 16:34:07 +0000    19970 bytes  lib/util/endpointUtil.js</tspan>
+<tspan x="10" y="5786">302.  2017-04-18 16:34:07 +0000    13555 bytes  lib/util/extendedcommand.js</tspan>
+<tspan x="10" y="5802">303.  2017-04-18 16:34:07 +0000     4855 bytes  lib/util/generatorUtils.js</tspan>
+<tspan x="10" y="5818">304.  2017-04-18 16:34:07 +0000    30656 bytes  lib/util/git/linkedrevisioncontrol.js</tspan>
+<tspan x="10" y="5834">305.  2017-04-18 16:34:07 +0000    24971 bytes  lib/util/hdinsightHelper.js</tspan>
+<tspan x="10" y="5850">306.  2017-04-18 16:34:07 +0000    12161 bytes  lib/util/interaction.js</tspan>
+<tspan x="10" y="5866">307.  2017-04-18 16:34:07 +0000     1976 bytes  lib/util/keyFiles.js</tspan>
+<tspan x="10" y="5882">308.  2017-04-18 16:34:07 +0000     9676 bytes  lib/util/logging.js</tspan>
+<tspan x="10" y="5898">309.  2017-04-18 16:34:07 +0000    10783 bytes  lib/util/profile/account.js</tspan>
+<tspan x="10" y="5914">310.  2017-04-18 16:34:07 +0000     9973 bytes  lib/util/profile/environment.js</tspan>
+<tspan x="10" y="5930">311.  2017-04-18 16:34:07 +0000      764 bytes  lib/util/profile/index.js</tspan>
+<tspan x="10" y="5946">312.  2017-04-18 16:34:07 +0000    11537 bytes  lib/util/profile/profile.js</tspan>
+<tspan x="10" y="5962">313.  2017-04-18 16:34:07 +0000     2761 bytes  lib/util/profile/publishSettings.js</tspan>
+<tspan x="10" y="5978">314.  2017-04-18 16:34:07 +0000     9044 bytes  lib/util/profile/subscription.js</tspan>
+<tspan x="10" y="5994">315.  2017-04-18 16:34:07 +0000     2580 bytes  lib/util/set.js</tspan>
+<tspan x="10" y="6010">316.  2017-04-18 16:34:07 +0000    83666 bytes  lib/util/storage.util.js</tspan>
+<tspan x="10" y="6026">317.  2017-04-18 16:34:07 +0000    10164 bytes  lib/util/telemetry.js</tspan>
+<tspan x="10" y="6042">318.  2017-04-18 16:34:07 +0000     1666 bytes  lib/util/userAgentCore.js</tspan>
+<tspan x="10" y="6058">319.  2017-04-18 16:34:07 +0000    49820 bytes  lib/util/utils.js</tspan>
+<tspan x="10" y="6074">320.  2017-04-18 16:34:07 +0000     7369 bytes  lib/util/utilsCore.js</tspan>
+<tspan x="10" y="6090">321.  2017-04-18 16:34:07 +0000     5694 bytes  lib/util/validation.js</tspan>
+<tspan x="10" y="6106">322.  2017-04-18 16:34:07 +0000     3622 bytes  lib/util/vmConstants.js</tspan>
+<tspan x="10" y="6122">323.  2017-04-18 16:34:07 +0000    19287 bytes  lib/util/vnet.util.js</tspan>
+<tspan x="10" y="6138">324.  2017-04-18 16:34:07 +0000     2088 bytes  npm-debug.log</tspan>
+<tspan x="10" y="6154">325.  2017-04-18 16:34:07 +0000     7578 bytes  package.json</tspan>
+<tspan x="10" y="6170">326.  2017-04-18 16:34:07 +0000     2041 bytes  scripts/extract-labels.js</tspan>
+<tspan x="10" y="6186">327.  2017-04-18 16:34:07 +0000     5636 bytes  scripts/filter-testresults.js</tspan>
+<tspan x="10" y="6202">328.  2017-04-18 16:34:07 +0000     1504 bytes  scripts/generate_command_inventory.js</tspan>
+<tspan x="10" y="6218">329.  2017-04-18 16:34:07 +0000     1442 bytes  scripts/link-to-sdk.js</tspan>
+<tspan x="10" y="6234">330.  2017-04-18 16:34:07 +0000     2388 bytes  scripts/unit.js</tspan>
+<tspan x="10" y="6250">331.  2017-04-18 16:34:07 +0000      967 bytes  xcli-cloned.sln</tspan>
 </text>
 </svg>
